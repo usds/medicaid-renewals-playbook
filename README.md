@@ -1,5 +1,10 @@
-![USDS Logo](./images/usds-logo.svg)
+<div align="center">
+  <img
+    width="300px"
+    src="./images/usds-logo.svg">
+  </img>
 
-# Medicaid Renewals Playbook
+  # U.S. Digital Service - Medicaid Renewals Playbook
+</div>
 
-
+...
