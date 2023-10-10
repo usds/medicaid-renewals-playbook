@@ -37,9 +37,11 @@ In addition, it’s important that all members of the team (including any and al
 * **Adopt terminology from the state.** For example, if they call a renewal a “review”, this should be the term used throughout the work. 
 * **Go where the work is.** Travel to where your state partners and their Medicaid members are.
 
-#### External Resources
+#### Resources
 
 - [Example Project Charter](./resources/example-project-charter.docx): This is an example charter used to establish the goals, dates, and activities of the engagement between the civic tech organization and the state human services agency.
+- Example Kickoff Mural: TODO
+- [Medicaid 101](./resources/medicaid-101.pdf): This is a _very brief and informal_ overview of the Medicaid program. This presentation **should not** be taken as legal authority or advice, but used as a quick introduction to the program.
 
 [Back To Top](#top)
 
