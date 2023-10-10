@@ -40,7 +40,7 @@ In addition, it’s important that all members of the team (including any and al
 #### Resources
 
 - [Example Project Charter](./resources/example-project-charter.docx): This is an example charter used to establish the goals, dates, and activities of the engagement between the civic tech organization and the state human services agency.
-- Example Kickoff Mural: TODO
+- [Example Kickoff Mural](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1696963326486/115af1eca7e22005016d5bb3145668a1314ed8b9?sender=u7eb3eb6b160ea46bce751540): This Mural is used for the initial kickoff session with the state. It includes several template activities for meeting the teams, aligning on shared goals, and determining activities.
 - [Medicaid 101](./resources/medicaid-101.pdf): This is a _very brief and informal_ overview of the Medicaid program. This presentation **should not** be taken as legal authority or advice, but used as a quick introduction to the program.
 
 [Back To Top](#top)
