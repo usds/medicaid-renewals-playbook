@@ -59,9 +59,12 @@ When determining the problems, it’s important to keep the focus on the “end-
 * **Learn from experts.** Meet with Navigators and eligibility workers to identify top challenges across the renewal process that members of their community experience. Meet in smaller groups with state SMEs and decision makers to better understand the challenges they’ve been dealing with.
 * **Map the experience.** Map a high-level user journey of the renewal end-to-end experience, noting common pain points and workarounds.
 
-#### External Resources
+#### Resources
 
-_TODO_
+* Data request template (including ex parte failure reasons and funnel metrics)
+* Funnel template
+* Navigator research plan (including email outreach templates and sample discussion guides)
+* Example Renewer journey map
 
 [Back To Top](#top)
 
@@ -80,9 +83,13 @@ Whenever possible, scope should be reduced towards the minimum viable solution. 
 * **Keep asking “why”.** If a timeline doesn’t make sense, or seems unrealistic, ask for specifics. If the explanation doesn’t make sense, ask for more. We don’t need to be the experts on the state systems or processes, but we do need to recognize when a solution isn’t as efficient (or impactful) as it can be. “Policy” is often cited as a reason something can’t be done; ask for the regulation.
 * **Find the minimum viable solution.** Working with the state staff, eliminate parts of the implementation process that are unnecessary. Focus specifically on stages that may are prone to inflation: testing, for example, or administrative processes. Can these stages be reduced? Don’t be satisfied until any solution is the smallest viable solution possible.
 
-#### External Resources
+#### Resources
 
-_TODO_
+* Ex parte workshop template
+* Manual renewal workshop template
+* Participatory design methods
+    * CBO workshop template
+    * Participatory renewal packet exercise
 
 [Back To Top](#top)
 
@@ -101,8 +108,9 @@ Once a set of solutions is prioritized, the state and vendor work together to sc
 * **Meet regularly if needed.** If helpful, meet with stakeholders on a regular basis after the engagement. Gauge how well the work is progressing, and where potential roadblocks could occur.
 * **Ask for metrics.** Measuring the impact of the engagement is crucial to ensuring the state and civic technology team’s time was well spent. If possible, utilize rigorous methods like A/B testing, pilots, and randomized trials to gather quality data of the effectivity of solutions.
 
-#### External Resources
+#### Resources
 
-_TODO_
+* Level of impact/impact matrix template
+* Executive sponsorship template, including definitions of roles/responsibilities
 
 [Back To Top](#top)
