@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 <div align="center">
   <img
     width="300px"
@@ -39,6 +41,11 @@ In addition, it’s important that all members of the team (including any and al
 
 _TODO_
 
+[Back To Top](#top)
+
+---
+
+<a name="play-2"></a>
 ### 2 // Identify Problems
 
 Working with the state and external partners, determine where the largest sources of failures are occurring while people are renewing. Where are people being moved from automatic renewal to manual renewal? Where are people struggling or failing when completing a renewal? What methods are most commonly utilized, and what are the biggest problems with those methods?
@@ -54,6 +61,11 @@ When determining the problems, it’s important to keep the focus on the “end-
 
 _TODO_
 
+[Back To Top](#top)
+
+---
+
+<a name="play-3"></a>
 ### 3 // Generate solutions
 
 Once problems have been identified, work with the broader cross-functional team to start generating solutions. Often times there will be more problems available to solve than possible to talk through in the given time. Start with high-impact and/or low-effort problems, and present them in turn for consideration. Solutions should be high-level, but estimable. Whenever possible, rely on data or similar solutions in other states as evidence that the solution will, in fact, solve the problem.
@@ -70,6 +82,11 @@ Whenever possible, scope should be reduced towards the minimum viable solution. 
 
 _TODO_
 
+[Back To Top](#top)
+
+---
+
+<a name="play-4"></a>
 ### 4 // Prioritize and Implement
 
 There will always be more problems to solve than there are resources available to solve them. Prioritizing with stakeholders allows the implementation teams to focus correctly on areas with the highest impact and quickest timelines.
@@ -85,3 +102,5 @@ Once a set of solutions is prioritized, the state and vendor work together to sc
 #### External Resources
 
 _TODO_
+
+[Back To Top](#top)
