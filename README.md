@@ -15,7 +15,7 @@ This playbook was created by the U.S. Digital Service as a rapid-response guide 
 
 - [1 - Establish Trust and Urgency](#play-1)
 - [2 - Identify Problems](#play-2)
-- [3 - Generate solutions](#play-3)
+- [3 - Generate Solutions](#play-3)
 - [4 - Prioritize and Implement](#play-4)
 
 ---
@@ -71,7 +71,7 @@ When determining the problems, it’s important to keep the focus on the “end-
 ---
 
 <a name="play-3"></a>
-### 3 // Generate solutions
+### 3 // Generate Solutions
 
 Once problems have been identified, work with the broader cross-functional team to start generating solutions. Often times there will be more problems available to solve than possible to talk through in the given time. Start with high-impact and/or low-effort problems, and present them in turn for consideration. Solutions should be high-level, but estimable. Whenever possible, rely on data or similar solutions in other states as evidence that the solution will, in fact, solve the problem.
 
