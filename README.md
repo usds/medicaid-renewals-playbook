@@ -11,10 +11,16 @@
 
 This playbook was created by the U.S. Digital Service as a rapid-response guide for civic technologists providing direct technical assistance to states during Public Health Emergency (PHE) Unwinding. The content in this playbook focuses on strategies to decrease the burden of Medicaid renewals on members of the public and state staff.
 
+[1 - Establish Trust and Urgency](#play-1)
+[2 - Identify Problems](#play-2)
+[3 - Generate solutions](#play-3)
+[4 - Prioritize and Implement](#play-4)
+
 ---
 
 ## Plays
 
+<a name="play-1"></a>
 ### 1 // Establish Trust and Urgency
 
 It is crucial to establish a relationship of trust with state partners from the beginning of an engagement. Every stage of the process is predicated on an exchange of details and data. This exchange may not be comfortable with state partners, as it may (and hopefully will) expose issues in their implementation and processes. Establishing trust is the single most important tool for counteracting this discomfort.
