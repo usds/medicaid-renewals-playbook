@@ -39,7 +39,7 @@ In addition, it’s important that all members of the team (including any and al
 
 #### External Resources
 
-_TODO_
+- [Example Project Charter](./resources/example-project-charter.docx): This is an example charter used to establish the goals, dates, and activities of the engagement between the civic tech organization and the state human services agency.
 
 [Back To Top](#top)
 
