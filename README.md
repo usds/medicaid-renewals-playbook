@@ -11,10 +11,10 @@
 
 This playbook was created by the U.S. Digital Service as a rapid-response guide for civic technologists providing direct technical assistance to states during Public Health Emergency (PHE) Unwinding. The content in this playbook focuses on strategies to decrease the burden of Medicaid renewals on members of the public and state staff.
 
-[1 - Establish Trust and Urgency](#play-1)
-[2 - Identify Problems](#play-2)
-[3 - Generate solutions](#play-3)
-[4 - Prioritize and Implement](#play-4)
+- [1 - Establish Trust and Urgency](#play-1)
+- [2 - Identify Problems](#play-2)
+- [3 - Generate solutions](#play-3)
+- [4 - Prioritize and Implement](#play-4)
 
 ---
 
