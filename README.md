@@ -63,7 +63,7 @@ When determining the problems, it’s important to keep the focus on the “end-
 
 * [Example Data Request Worksheet](./resources/data-request-worksheet.xlsx): This is a worksheet that can be used by the state to begin measuring their renewal flows. Most states will not be able to fill out the entirety of it; that's okay! This should be adapted for the particular state.
 * Funnel template
-* Navigator research plan (including email outreach templates and sample discussion guides)
+* [Navigator Research Guide](./navigator-research-guide.docx): Working with Navigators is crucial for the success of renewals work. This guide provides a set of resources for explaining, justifying, preparing, and performing work with Navigators. It includes background information on Navigator organizations, example research plans, and email templates for correspondance.
 * Example Renewer journey map
 
 [Back To Top](#top)
