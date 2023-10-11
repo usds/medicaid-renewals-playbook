@@ -61,7 +61,7 @@ When determining the problems, it’s important to keep the focus on the “end-
 
 #### Resources
 
-* Data request template (including ex parte failure reasons and funnel metrics)
+* [Example Data Request Worksheet](./resources/data-request-worksheet.xlsx): This is a worksheet that can be used by the state to begin measuring their renewal flows. Most states will not be able to fill out the entirety of it; that's okay! This should be adapted for the particular state.
 * Funnel template
 * Navigator research plan (including email outreach templates and sample discussion guides)
 * Example Renewer journey map
