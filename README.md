@@ -37,6 +37,10 @@ In addition, it’s important that all members of the team (including any and al
 * **Adopt terminology from the state.** For example, if they call a renewal a “review”, this should be the term used throughout the work. 
 * **Go where the work is.** Travel to where your state partners and their Medicaid members are.
 
+#### Workshops and Meetings
+
+- [Hypothesis Generation Workshop](./workshops-and-meetings/hypothesis-generation-workshop.md): This workshop provides an opportunity for the team and the state staff to come up with hypotheses on where to focus time.
+
 #### Resources
 
 - [Example Project Charter](./resources/example-project-charter.docx): This is an example charter used to establish the goals, dates, and activities of the engagement between the civic tech organization and the state human services agency.
