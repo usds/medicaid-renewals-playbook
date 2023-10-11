@@ -68,9 +68,9 @@ When determining the problems, it’s important to keep the focus on the “end-
 * **Learn from experts.** Meet with Navigators and eligibility workers to identify top challenges across the renewal process that members of their community experience. Meet in smaller groups with state SMEs and decision makers to better understand the challenges they’ve been dealing with.
 * **Map the experience.** Map a high-level user journey of the renewal end-to-end experience, noting common pain points and workarounds.
 
-#### Meetings and Workshops
+#### Workshops and Meetings
 
-* [Ex Parte Workshop #1](./meetings-and-workshops/ex-parte-workshop.md): The first ex parte workshop, typically held in the week of the on-site, is focused on identifying opportunities for improvement in the ex parte renewal flow.
+* [Ex Parte Workshop #1](./workshops-and-meetings/ex-parte-workshop.md): The first ex parte workshop, typically held in the week of the on-site, is focused on identifying opportunities for improvement in the ex parte renewal flow.
 
 #### Resources
 
@@ -96,10 +96,10 @@ Whenever possible, scope should be reduced towards the minimum viable solution. 
 * **Keep asking “why”.** If a timeline doesn’t make sense, or seems unrealistic, ask for specifics. If the explanation doesn’t make sense, ask for more. We don’t need to be the experts on the state systems or processes, but we do need to recognize when a solution isn’t as efficient (or impactful) as it can be. “Policy” is often cited as a reason something can’t be done; ask for the regulation.
 * **Find the minimum viable solution.** Working with the state staff, eliminate parts of the implementation process that are unnecessary. Focus specifically on stages that may are prone to inflation: testing, for example, or administrative processes. Can these stages be reduced? Don’t be satisfied until any solution is the smallest viable solution possible.
 
-#### Meetings and Workshops
+#### Workshops and Meetings
 
-* [Navigator Workshop](./meetings-and-workshops/navigator-workshop.md): Typically, at the beginning of the week, we hold a convening of Navigators focused on generating potential solutions.
-* [Ex Parte Workshop #2](./meetings-and-workshops/ex-parte-workshop.md): The second ex parte workshop is focused around implementation details and aligning on potential solutions.
+* [Navigator Workshop](./workshops-and-meetings/navigator-workshop.md): Typically, at the beginning of the week, we hold a convening of Navigators focused on generating potential solutions.
+* [Ex Parte Workshop #2](./workshops-and-meetings/ex-parte-workshop.md): The second ex parte workshop is focused around implementation details and aligning on potential solutions.
 
 #### Resources
 
