@@ -18,6 +18,10 @@ This playbook was created by the U.S. Digital Service as a rapid-response guide 
 - [3 - Generate Solutions](#play-3)
 - [4 - Prioritize and Implement](#play-4)
 
+Common issues:
+- [Common Ex Parte Issues](./ex-parte-renewals)
+- [Common Manual Renewal Issues](./manual-renewals)
+
 ---
 
 ## Plays
