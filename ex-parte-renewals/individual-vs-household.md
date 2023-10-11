@@ -9,7 +9,7 @@ Medicaid determinations should be made at the _individual_ level, meaning that i
 States were required to self-report this issue to CMS; however, there may be additional symptoms of the issue.
 
 Some signs this may be happening:
-- Data is only be available at the case or account level.
+- Data is only available at the case or account level.
 - A flag on one person in the case blocks (or excludes) an entire case from moving forward. 
 - A case uses the lowest income threshold available for MAGI determinations.
 - Mixed cases (MAGI and non-MAGI) are excluded from ex parte.
