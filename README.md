@@ -64,6 +64,10 @@ When determining the problems, it’s important to keep the focus on the “end-
 * **Learn from experts.** Meet with Navigators and eligibility workers to identify top challenges across the renewal process that members of their community experience. Meet in smaller groups with state SMEs and decision makers to better understand the challenges they’ve been dealing with.
 * **Map the experience.** Map a high-level user journey of the renewal end-to-end experience, noting common pain points and workarounds.
 
+#### Meetings and Workshops
+
+* [Ex Parte Workshop #1](./meetings-and-workshops/ex-parte-workshop.md): The first ex parte workshop, typically held in the week of the on-site, is focused on identifying opportunities for improvement in the ex parte renewal flow.
+
 #### Resources
 
 * [Example Data Request Worksheet](./resources/data-request-worksheet.xlsx): This is a worksheet that can be used by the state to begin measuring their renewal flows. Most states will not be able to fill out the entirety of it; that's okay! This should be adapted for the particular state.
@@ -91,11 +95,11 @@ Whenever possible, scope should be reduced towards the minimum viable solution. 
 #### Meetings and Workshops
 
 * [Navigator Workshop](./meetings-and-workshops/navigator-workshop.md): Typically, at the beginning of the week, we hold a convening of Navigators focused on generating potential solutions.
+* [Ex Parte Workshop #2](./meetings-and-workshops/ex-parte-workshop.md): The second ex parte workshop is focused around implementation details and aligning on potential solutions.
 
 #### Resources
 
 * Manual renewal workshop template
-* Ex Parte workshop template
 * Participatory design methods
     * Participatory renewal packet exercise
 

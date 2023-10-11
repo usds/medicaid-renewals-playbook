@@ -25,7 +25,7 @@ If time permits, there may be additional Navigator meetings on this day.
 
 ## Wednesday - State Workshops Day #1
 
-On Wednesday, we have two workshops with the state. These have been loosely organized around ex parte renewals and manual renewals, respectively, but do not have to be!
+On Wednesday, we have two workshops with the state. These have been loosely organized around [ex parte renewals](./workshops-and-meetings/ex-parte-workshop.md) and manual renewals, respectively, but do not have to be!
   - These meetings should be 90 minutes each, and should not be back-to-back.
   - These will be focused on _identifying_ areas of opportunity for solutioning. Solutioning may get started here, but keep in mind there will be lots to talk about!
   - Vendors **should be present** at these meetings.
@@ -37,7 +37,7 @@ If time permits, there may be additional Navigator meetings on this day.
 ## Thursday - State Workshops Day #2
 
 Thursday has an identical structure to Wednesday:
-  - There will be two 90-minute workshops with the state.
+  - There will be two 90-minute workshops with the state; one on [ex parte renewals](./workshops-and-meetings/ex-parte-workshop.md) amd one on manual renewals.
   - These meetings should be focused on solutioning, estimation, and prioritization. This is a good time to ask questions like: how long will this take? When can it be scheduled?
   - Vendors **should be present** at these meetings.
 
