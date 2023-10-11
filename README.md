@@ -88,9 +88,12 @@ Whenever possible, scope should be reduced towards the minimum viable solution. 
 * **Keep asking “why”.** If a timeline doesn’t make sense, or seems unrealistic, ask for specifics. If the explanation doesn’t make sense, ask for more. We don’t need to be the experts on the state systems or processes, but we do need to recognize when a solution isn’t as efficient (or impactful) as it can be. “Policy” is often cited as a reason something can’t be done; ask for the regulation.
 * **Find the minimum viable solution.** Working with the state staff, eliminate parts of the implementation process that are unnecessary. Focus specifically on stages that may are prone to inflation: testing, for example, or administrative processes. Can these stages be reduced? Don’t be satisfied until any solution is the smallest viable solution possible.
 
+#### Meetings and Workshops
+
+* [Navigator Workshop](./meetings-and-workshops/navigator-workshop.md): Typically, at the beginning of the week, we hold a convening of Navigators focused on generating potential solutions.
+
 #### Resources
 
-* [Example Navigator Workshop Facilitation Guide](./resources/navigator-workshop-facilitation-guide.docx): Typically, early on in the engagement, we lead a solutioning workshop with Navigators with state partners. This guide breaks out how the workshop is typically run.
 * Manual renewal workshop template
 * Ex Parte workshop template
 * Participatory design methods
