@@ -85,10 +85,10 @@ Whenever possible, scope should be reduced towards the minimum viable solution. 
 
 #### Resources
 
-* Ex parte workshop template
+* [Example Navigator Workshop Facilitation Guide](./resources/navigator-workshop-facilitation-guide.docx): Typically, early on in the engagement, we lead a solutioning workshop with Navigators with state partners. This guide breaks out how the workshop is typically run.
 * Manual renewal workshop template
+* Ex Parte workshop template
 * Participatory design methods
-    * CBO workshop template
     * Participatory renewal packet exercise
 
 [Back To Top](#top)
