@@ -4,6 +4,12 @@
 
 CMS has provided flexibility for states to perform ex parte renewals through the [1902(e)(14)(a)](https://www.medicaid.gov/resources-for-states/coronavirus-disease-2019-covid-19/unwinding-and-returning-regular-operations-after-covid-19/covid-19-phe-unwinding-section-1902e14a-waiver-approvals/index.html) process. However, many states may have struggled with the implementation of these waivers, or may not have the most efficient implementation possible.
 
+Waivers that states may be struggling with:
+  - *100% FPL Waiver*: Anyone with a verified income less than 100% FPL can be renewed if there's no data available from electronic sources.
+  - *0% FPL Waiver*: Anyone with a verified income at 0% FPL can be renewed if there's no data available from electronic sources.
+  - *SNAP/TANF Categorical Eligibility*: Anyone receiving SNAP or TANF is not subject to an income test.
+  - *Removal of asset test*: Assets are no longer a consideration for eligibility.
+
 ## What this looks like
 
 In some states, the implementation of these waivers may be manual (meaning that eligibility workers are determining who falls under these rules). This process is often inefficient and can lead to a backlog of individuals to be verified.
