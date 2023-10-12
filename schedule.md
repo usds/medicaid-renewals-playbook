@@ -45,7 +45,7 @@ Thursday is typically too late for any additional Navigator meetings.
 
 ## Friday - Closing Day
 
-On Friday, a one-hour closing session is held with the state in order to present findings.
+On Friday, a [one-hour closing session](./workshops-and-meetings/closing.md) is held with the state in order to present findings.
   - The **state Medicaid Director** and Deputy Director (if appropriate) should be at this meeting, if possible.
   - The civic tech team will present findings from the week, including:
       - Identified opportunities
