@@ -110,11 +110,6 @@ Whenever possible, scope should be reduced towards the minimum viable solution. 
 * [Ex Parte Workshop #2](./workshops-and-meetings/ex-parte-workshop.md): The second ex parte workshop is focused around implementation details and aligning on potential solutions.
 * [Manual Renewal Workshop #2](./workshops-and-meetings/manual-renewal-workshop.md): The second manual renewal workshop is focused around determining implementation plans and assigning owners to action items.
 
-#### Resources
-
-* Participatory design methods
-    * Participatory renewal packet exercise
-
 [Back To Top](#top)
 
 ---
@@ -135,11 +130,10 @@ Once a set of solutions is prioritized, the state and vendor work together to sc
 #### Workshops and Meetings
 
 * [Closing Meeting](./workshops-and-meetings/closing.md): This meeting is typically held at the end of the on-site week. It is an opportunity to present recommendations to the state senior leadership, and re-affirm the agreed upon actions.
+* [Prioritization Session](./workshops-and-meetings/prioritization-session.md): This session can help the state determine which recommendations require immediate action VS long-term.
 
 #### Resources
 
 * [Example Recommendations Document](./resources/example-recommendations-document.docx): At the end of the on-site week, all recommendations agreed upon by _both the state and the civic technology team_ are documented in this recommendations report, which is then delivered to the state Medicaid leadership.
-* Level of impact/impact matrix template
-* Executive sponsorship template, including definitions of roles/responsibilities
 
 [Back To Top](#top)
