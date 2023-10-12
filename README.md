@@ -71,6 +71,7 @@ When determining the problems, it’s important to keep the focus on the “end-
 #### Workshops and Meetings
 
 * [Ex Parte Workshop #1](./workshops-and-meetings/ex-parte-workshop.md): The first ex parte workshop, typically held in the week of the on-site, is focused on identifying opportunities for improvement in the ex parte renewal flow.
+* [Manual Renewal Workshop #1](./workshops-and-meetings/manual-renewal-workshop.md): The first manual renewal workshop, typically held in the week of the on-site, is focused on bringing the experiences and solutions from research with Navigators to the state so that solutioning can begin.
 
 #### Resources
 
@@ -100,10 +101,10 @@ Whenever possible, scope should be reduced towards the minimum viable solution. 
 
 * [Navigator Workshop](./workshops-and-meetings/navigator-workshop.md): Typically, at the beginning of the week, we hold a convening of Navigators focused on generating potential solutions.
 * [Ex Parte Workshop #2](./workshops-and-meetings/ex-parte-workshop.md): The second ex parte workshop is focused around implementation details and aligning on potential solutions.
+* [Manual Renewal Workshop #2](./workshops-and-meetings/manual-renewal-workshop.md): The second manual renewal workshop is focused around determining implementation plans and assigning owners to action items.
 
 #### Resources
 
-* Manual renewal workshop template
 * Participatory design methods
     * Participatory renewal packet exercise
 
