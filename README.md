@@ -15,6 +15,8 @@ This playbook was created by the U.S. Digital Service as a rapid-response guide 
 
 This guidebook should **NOT** be considered as authoritative, legal, or regulatory content. It is advisory only, and should be adapted for each particular environment and scenario.
 
+_[How to add to this guide](./CONTRIBUTING.md)_
+
 - [1 - Establish Trust and Urgency](#play-1)
 - [2 - Identify Problems](#play-2)
 - [3 - Generate Solutions](#play-3)
