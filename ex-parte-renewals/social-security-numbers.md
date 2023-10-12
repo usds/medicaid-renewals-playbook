@@ -11,6 +11,7 @@ States are required to ask for an individual's social security number when they 
 SSNs are required for income checks. However, many of these people may not need to have an income check performed for the following reasons:
   - Anyone under the age of 14 cannot work, and therefore should not need an income check.
   - If the state has implemented the 100% FPL waiver, they do not need to check income for someone without an SSN.
+    - The waiver itself allows for the state to skip the income check if no data was available from data sources. Because all data sources _typically_ require an SSN, the state has nothing to query, and therefore no data from electronic data sources.
   - If the state is verifying income via categorical eligibility (SNAP, for example), they do not need to perform an additional income check
 
 Regardless, many states exclude all members without an SSN from ex parte.
