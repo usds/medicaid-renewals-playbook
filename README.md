@@ -17,6 +17,9 @@ This guidebook should **NOT** be considered as authoritative, legal, or regulato
 
 _[How to add to this guide](./CONTRIBUTING.md)_
 
+---
+
+Plays:
 - [1 - Establish Trust and Urgency](#play-1)
 - [2 - Identify Problems](#play-2)
 - [3 - Generate Solutions](#play-3)
