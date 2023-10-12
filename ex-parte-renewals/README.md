@@ -6,4 +6,5 @@
 - [Policy Rules](./policy-rules.md)
 - [Social Security Number Issues](./social-security-numbers.md)
 - [Waiver Implementation Issues](./waiver-implementations.md)
+- Wage matching logic
 - [Worst Case Scenario Issues](./worst-case-scenario.md)
