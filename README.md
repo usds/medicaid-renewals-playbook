@@ -86,7 +86,7 @@ When determining the problems, it's important to keep the focus on the “end-to
 * [Example Data Request Worksheet](./resources/data-request-worksheet.xlsx): This is a worksheet that can be used by the state to begin measuring their renewal flows. Most states will not be able to fill out the entirety of it; that's okay! This should be adapted for the particular state.
 * [Example State Renewals Funnel](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1697032143290/0ae29a54efb9ed41a03dbba35e11e7eba60cfa1e?sender=u46dc9256beb1576a38081536): This is a method of visualizing the "funnel" of Medicaid renewals, and determining which points are the most important to focus on.
 * [Navigator Research Guide](./navigator-research-guide.docx): Working with Navigators is crucial for the success of renewals work. This guide provides a set of resources for explaining, justifying, preparing, and performing work with Navigators. It includes background information on Navigator organizations, example research plans, and email templates for correspondence.
-* Example Renewer journey map
+* [Example Renewal Journey Map](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1697052445632/f3f79359e57b77d23f41d325a131b736c5740263?sender=u46dc9256beb1576a38081536): This template is used to map the journey of a renewal from start to finish. This can be used throughout the investigation and research process for determining challenges and opportunities for improvement.
 
 [Back To Top](#top)
 
