@@ -5,19 +5,19 @@
 Wage matching is the process in which an person's income is compared against external data sources for verification. This process includes using the reasonable compatibility test, and incorporates any reasonable compatibility threshold the state is using.
 
 While the regulations and guidance are fairly clear around reasonable compatibility, states may be taking an unnecessarily strict stance. The process should be:
-  - Compare the income on the account to the person's income threshold
-  - Compare the income from the data source to the person's income threshold.
+  - Compare the existing income on the account to the person's income threshold
+  - Compare the income returned from the electronic data source to the person's income threshold.
   - If BOTH are *below* the threshold: the two incomes are reasonably compatible, and the person should be renewed.
   - If BOTH are *above* the threshold: the two incomes are reasonably compatible, and the person should be sent a renewal packet.
-  - If ONE is above and one is below:
+  - If ONE is above and one is below the threshold:
     - If the two values are _within the reasonable compatibility threshold of each other_: the two incomes are reasonably compatible, and the person should be renewed.
     - If the two values are NOT within the reasonable compatibility threshold of each other: the two incomes are NOT reasonably compatible, and the person should be sent a renewal packet.
 
-Within in this process, there are flexibilities. Some states may choose to ignore the stored income completely; this is okay because the stored income will always be below the threshold anyway (since they qualified previously).
+Within in this process, there are flexibilities. Some states may choose to ignore the stored income completely; this is a reasonable implementation choice because the stored income will **always** be below the threshold anyway (since they qualified previously).
 
-However, some states may be taking strategies like:
+However, some states may be taking overly-restrictive strategies like:
   - Requiring that the incomes are within a certain distance of each other BEFORE comparing to the threshold
-  - Requiring that the incomes have matching employer names
+  - Requiring that the incomes have matching employer names [CBPP Step 3](https://www.cbpp.org/research/health/streamlining-medicaid-renewals-through-the-ex-parte-process)
   - Requiring that the case have an income from within the past X months
   - Requiring that all income data sources confirm a source of income
 
