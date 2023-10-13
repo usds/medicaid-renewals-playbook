@@ -40,3 +40,7 @@ The first step in diagnosing a wage match issue is to ask the state to describe 
   - What's your reasonable compatibility threshold? When does it come into play?
 
 Describe to the state how best-in-class income verification processes do wage matching in the simplest way possible.  Question and challenge any logic that strays outside of these bounds. Cite [the October CMS guidance](https://www.medicaid.gov/sites/default/files/2022-10/ex-parte-renewal-102022.pdf) indicating best practices, and the regulations for definitions of technical terms.
+
+## Resources
+
+- [CBPP: Streamlining Medicaid Renewals Through the Ex Parte Process](https://www.cbpp.org/research/health/streamlining-medicaid-renewals-through-the-ex-parte-process) (Step 3)
