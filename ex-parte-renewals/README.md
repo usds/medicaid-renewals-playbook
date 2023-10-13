@@ -6,7 +6,7 @@ The value civic technologists bring to states on ex parte renewals is the abilit
 - [Income Data Hierarchy Issues](./income-data-hierarchy.md)
 - [Individualized Eligibility](./individual-vs-household.md)
 - [Social Security Number Issues](./social-security-numbers.md)
-- [Unnecessary Reverifications](./unnecesary-reverifications.md)
+- [Unnecessary Reverifications](./unnecessary-reverifications.md)
 - [Wage Matching Issues](./wage-matching.md)
 - [Policy Rules](./policy-rules.md)
 - [Take a Worst Case Scenario Approach](./worst-case-scenario.md)
