@@ -74,7 +74,7 @@ When determining the problems, it's important to keep the focus on the “end-to
 * **Be a renewer.** Put your renewer hat on and do some Googling to figure out how to renew Medicaid in your state. Do this on mobile, record screenshots as you go, and note pain points throughout the process. Call customer support when you get stuck, take notes on the IVR and overall experience.
 * **Learn from experts.** Meet with Navigators and eligibility workers to identify top challenges across the renewal process that members of their community experience. Meet in smaller groups with state SMEs and decision makers to better understand the challenges they've been dealing with.
 * **Map the experience.** Map a high-level user journey of the renewal end-to-end experience, noting common pain points and workarounds.
-* **Don't split the party** - don't separate into ex parte and manual teams. It's a safe bet the backend vendor engineer has never watched an eligibility worker do thier job: your team will need to have that context to help them identify root causes. Common issues reported by Navigators may point to problems that could be solved in the ex parte phase. Approach the system from a holistic, human-centered perspective. 
+* **Don't split the party** - don't separate into ex parte and manual teams. It's possible that the implementation teams have not had the opportunity to witness an eligibility worker process a renewal; your team will need to have that context to help them identify root causes. Common issues reported by Navigators may point to problems that could be solved in the ex parte phase. Approach the system from a holistic, human-centered perspective. 
 
 #### Workshops and Meetings
 
