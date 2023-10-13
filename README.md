@@ -18,9 +18,9 @@ This playbook was created by the U.S. Digital Service as a rapid-response guide 
 Please contribute to this repository with your questions or additions. To do so, check out _[How to add to this guide](./CONTRIBUTING.md)_
 
 ---
-Common issues:
-- [Common Ex Parte Issues](./ex-parte-renewals)
-- [Common Manual Renewal Issues](./manual-renewals)
+Common opportunities:
+- [Common Ex Parte Opportunities](./ex-parte-renewals)
+- [Common Manual Renewal Opportunities](./manual-renewals)
 
 USDS Plays:
 - [1 - Establish Trust and Urgency](#play-1)
