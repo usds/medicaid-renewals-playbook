@@ -1,0 +1,12 @@
+
+- The weeks before going on-site
+  - [Hypothesis Generation Workshop](./hypothesis-generation-workshop.md)
+  - [Kickoff](./kickoff.md)
+- During the on-site week
+  - [Navigator Workshop](./navigator-workshop.md)
+  - [Ex Parte Workshops](./ex-parte-workshop.md)
+  - [Manual Renewal Workshops](./manual-renewal-workshop.md)
+- The last day of the on-site week
+  - [Closing Meeting](./closing.md)
+- the week following on-site
+  - [Prioritization Session](./prioritization-session.md)
