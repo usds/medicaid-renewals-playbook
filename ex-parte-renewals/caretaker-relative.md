@@ -2,7 +2,7 @@
 
 ## Description
 
-Family makeup, including the presence of **caretaker relatives**, is often a source of confusion and errors. It's common for states to exclude families with unclear family makeups.
+Family makeup, including the presence of [**caretaker relatives**](https://www.law.cornell.edu/cfr/text/42/435.110), is often a source of confusion and errors. It's common for states to exclude families with unclear family makeups.
 
 However, family makeup is not subject to change without notification. While family makeup can, in theory, be verified against IRS data sources, it very rarely results in a "true positive". Regardless, states may filter out cases aggressively based on the presence of unclear caretaker relative relationships.
 

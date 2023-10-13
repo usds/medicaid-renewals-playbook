@@ -6,7 +6,7 @@ Most states have one (or more) phone lines where people can call and ask questio
 
 ### IVR Issues
 
-Some common issues with IVR systems:
+Some common issues with interactive voice response (IVR) systems:
   - Long pre-recorded introductory message that does not provide relevant information
   - No non-English language support
   - Inconsistent or incorrect language support

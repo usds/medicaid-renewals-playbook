@@ -12,6 +12,7 @@ Some signs this may be happening:
 - A flag on one person in the case blocks (or excludes) an entire case from moving forward through ex parte renewal. 
 - A case uses the lowest income threshold available for MAGI determinations (e.g., applies the adult threshold to children on the case).
 - Mixed cases (MAGI and non-MAGI) are excluded from ex parte.
+- Watch for two-stage systems where over-broad filters knock out entire cases before the eligibility rules are run in an attempt to mitigate perceived risks or defects in the rules engine.
 
 ## Potential solutions
 

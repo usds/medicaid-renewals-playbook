@@ -34,7 +34,7 @@ For each opportunity identified:
     - Are there policy considerations that we need to be aware of?
     - Do we feel comfortable making a change here? To what extent?
 
-Try not to stray too far into implementation details just yet. It may be useful for vendors to add to the conversation, but we should still be in opportunity analysis, not yet solutioning.
+Try not to stray too far into implementation details just yet. It may be useful for vendors to add to the conversation, but we should still be in opportunity analysis, not yet solutioning.  The vendors who have the subject matter expertise will likely not have much public speaking experience: be prepared to manage time closely, to keep things focused, and to make sure the non-technical staff understand any implications.
 
 If there are action items or data pulls that need to be performed, capture them and assign owners.
 
