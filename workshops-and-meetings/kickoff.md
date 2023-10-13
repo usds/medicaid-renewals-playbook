@@ -10,7 +10,7 @@ This meeting typically lasts one hour.
 
 ## Mural
 
-[This Mural](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1696963326486/115af1eca7e22005016d5bb3145668a1314ed8b9?sender=u7eb3eb6b160ea46bce751540) is an example that can be adapted for state kickoff meetings.
+[This Mural](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1696963326486/fda4345807bd8dd557bd3d71d0780a8768cf4fe1?sender=u7eb3eb6b160ea46bce751540) is an example that can be adapted for state kickoff meetings.
 
 ## Run of Show
 
