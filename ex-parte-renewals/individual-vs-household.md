@@ -7,7 +7,7 @@ Medicaid determinations should be made at the _individual_ level, meaning that i
 ## What this looks like
 
 Some signs this may be happening:
-- The state you are working with has (self-attested)[https://www.medicaid.gov/sites/default/files/2023-09/state-asesment-compliance-auto-ren-req.pdf] to having the issue and has indicated to you that they need help resolving it.
+- The state you are working with has [self-attested](https://www.medicaid.gov/sites/default/files/2023-09/state-asesment-compliance-auto-ren-req.pdf) to having the issue and has indicated to you that they need help resolving it.
 - Ex parte data is only available at the case or account level.
 - A flag on one person in the case blocks (or excludes) an entire case from moving forward through ex parte renewal. 
 - A case uses the lowest income threshold available for MAGI determinations (e.g., applies the adult threshold to children on the case).
