@@ -28,3 +28,7 @@ Large amounts of people or cases failing ex parte renewal for the following reas
 ## Potential solutions
 
 Describe to the state how best-in-class income verification systems query _all income data sources available_. Question and challenge any logic that excludes certain types of people from certain types of income checks. If the state is not using a "get-to-yes" strategy, cite [the October CMS guidance](https://www.medicaid.gov/sites/default/files/2022-10/ex-parte-renewal-102022.pdf) indicating best practices. Once policy aligned, determine an implementation path forward.
+
+## Resources
+
+- [CBPP: Streamlining Medicaid Renewals Through the Ex Parte Process](https://www.cbpp.org/research/health/streamlining-medicaid-renewals-through-the-ex-parte-process) (Step 2)
