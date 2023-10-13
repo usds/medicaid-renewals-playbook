@@ -2,16 +2,15 @@
 
 ## Description
 
-Medicaid determinations should be made at the _individual_ level, meaning that individuals within the same household may have different determination statuses. Unfortunately, many states determine eligibility at the household level, meaning individuals who may be eligible are "swept up" in the determination of the household as a whole.
+Medicaid determinations should be made at the _individual_ level, meaning that individuals within the same household may have different determination statuses. Unfortunately, many state systems are configured to determine ex parte eligibility at the household level, meaning individuals who may be eligible are "swept up" in the determination of the household as a whole. The USDS first identified this defect across several state systems while providing technical assistance, and in August 2023 [CMCS notified](https://www.medicaid.gov/sites/default/files/2023-08/state-ltr-ensuring-renewal-compliance.pdf) all state Medicaid agencies that they needed to urgently identify and fix this defect. By September 2023, [29 states](https://www.medicaid.gov/sites/default/files/2023-09/state-asesment-compliance-auto-ren-req.pdf) self-attested to being afflicted by the defect. As of October 2023, all of these states are actively working to resolve this issue and have a mitigation plan in place. You should speak with your state partners to understand if they need assistance executing on their mitigation plans. 
 
 ## What this looks like
 
-States were required to self-report this issue to CMS; however, there may be additional symptoms of the issue.
-
 Some signs this may be happening:
-- Data is only available at the case or account level.
-- A flag on one person in the case blocks (or excludes) an entire case from moving forward. 
-- A case uses the lowest income threshold available for MAGI determinations.
+- The state you are working with has (self-attested)[https://www.medicaid.gov/sites/default/files/2023-09/state-asesment-compliance-auto-ren-req.pdf] to having the issue and has indicated to you that they need help resolving it.
+- Ex parte data is only available at the case or account level.
+- A flag on one person in the case blocks (or excludes) an entire case from moving forward through ex parte renewal. 
+- A case uses the lowest income threshold available for MAGI determinations (e.g., applies the adult threshold to children on the case).
 - Mixed cases (MAGI and non-MAGI) are excluded from ex parte.
 
 ## Potential solutions
