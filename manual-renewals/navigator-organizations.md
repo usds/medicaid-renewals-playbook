@@ -2,7 +2,7 @@
 
 ## Description
 
-Navigators, sometimes also called assistors or community partners, are a crucial part of the Medicaid ecosystem. They serve as a critical link between the state and Medicaid participants, especially the most vulnerable, such as those experiencing homelessness, and people who have a language or literacy barrier. Navigators are subject matter experts on the needs of their communities, and as front line workers they know which parts of the renewal process are most challenging or confusing.
+[Navigators](https://www.healthcare.gov/glossary/navigator/), sometimes also called assistors or community partners, are a crucial part of the Medicaid ecosystem. They serve as a critical link between the state and Medicaid participants, especially the most vulnerable, such as those experiencing homelessness, and people who have a language or literacy barrier. Navigators are subject matter experts on the needs of their communities, and as front line workers they know which parts of the renewal process are most challenging or confusing.
 
 While some states have great relationships with their navigator orgs, other states have no connection to them at all. Even when a relationship does exist, states don't always effectively leverage the expertise of navigators. 
 
