@@ -22,7 +22,7 @@ Common opportunities:
 - [Common Ex Parte Opportunities](./ex-parte-renewals)
 - [Common Manual Renewal Opportunities](./manual-renewals)
 
-USDS Plays:
+Plays from USDS state engagements:
 - [1 - Establish Trust and Urgency](#play-1)
 - [2 - Identify Problems](#play-2)
 - [3 - Generate Solutions](#play-3)
