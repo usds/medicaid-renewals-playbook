@@ -2,12 +2,12 @@
 
 ## Description
 
-Generally, states have some sort "hierarchy" indicating what income data sources are used in which cases. Good income hierarchy rules query as many income data sources as needed to renew an individual or case; poor income hierarchy rules may not query as many income data sources as possible, leaving valuable data on the table.
+Generally, states have a "hierarchy" indicating what income data sources are used in which cases to electronically verify an individual's income. Good income hierarchy rules query as many income data sources as needed to renew an individual or case; poor income hierarchy rules may not query as many income data sources as possible, leaving valuable data on the table.
 
 The data sources that often yield the most successful renewals are:
   - Quarterly wage data (also called SWICA or Department of Labor database; note this is NOT the same as unemployment income)
   - State tax data
-  - IRS
+  - IRS data
   - Social Security
   - Private databases (e.g., Equifax's The Work Number)
 
