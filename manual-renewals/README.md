@@ -14,7 +14,6 @@ Human-centered design principles can bring large improvements to this process, a
 - [Renewal Forms](renewal-forms.md)
 
 
-_
-This playbook is **NOT** a source of authoritative, legal, or regulatory guidance and has not been officially endorsed by the Center for Medicaid and CHIP Services (CMCS). It is advisory only, and should be adapted appropriately for each state and scenario. Ultimately, it is the responsibility of state Medicaid officials to ensure that implementation of any project is compliant with federal Medicaid statute and regulations. Refer to CMCS's website for up to date official guidance._
+_This playbook is **NOT** a source of authoritative, legal, or regulatory guidance and has not been officially endorsed by the Center for Medicaid and CHIP Services (CMCS). It is advisory only, and should be adapted appropriately for each state and scenario. Ultimately, it is the responsibility of state Medicaid officials to ensure that implementation of any project is compliant with federal Medicaid statute and regulations. Refer to CMCS's website for up to date official guidance._
 
 
