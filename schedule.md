@@ -8,7 +8,7 @@ Generally the team is assembled on-site by *Sunday night*. This may or may not b
 
 ## Monday - Navigator Workshop Day
 
-On Monday we typically hold an [in-person solutioning workshop with Navigators](./workshops-and-meetings/navigator-workshop.md). This is best held in a city with a large number of Medicaid recipients (and therefore Navigator organizations), which may or may not be the capitol of the state. For more information on the Navigator workshop, see [the facilitation guide](./resources/navigator-facilitation-guide.docx).
+On Monday we typically hold an [in-person solutioning workshop with Navigators](./workshops-and-meetings/navigator-workshop.md). This is best held in a city with a large number of Medicaid recipients (and therefore Navigator organizations), which may or may not be the capitol of the state. For more information on the Navigator workshop, see [the facilitation guide](./resources/navigator-workshop-facilitation-guide.docx).
 
 ## Tuesday - Travel to Capitol and/or State Kickoff
 
