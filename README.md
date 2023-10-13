@@ -36,7 +36,7 @@ Common issues:
 <a name="play-1"></a>
 ### 1 // Establish Trust and Urgency
 
-It is crucial to establish a relationship of trust with state partners from the beginning of an engagement. Every stage of the process is predicated on an exchange of details and data. This exchange may not be comfortable with state partners, as it may (and hopefully will) expose issues in their implementation and processes. Establishing trust is the single most important tool for counteracting this discomfort.
+It is crucial to establish a relationship of trust with state partners from the beginning of an engagement. Every stage of the process is predicated on an exchange of details and data. This exchange may not be comfortable for state partners, as it may (and hopefully will) expose issues in their implementation and processes. Establishing trust is the single most important tool for counteracting this discomfort.
 
 In addition, it's important that all members of the team (including any and all vendors) understand the urgency and criticality of the project. Leadership should be engaged regularly from the beginning, and the work should be made a top priority. Common goals should be established such that everyone understands what “success” looks like.
 
@@ -66,7 +66,7 @@ In addition, it's important that all members of the team (including any and all 
 <a name="play-2"></a>
 ### 2 // Identify Problems
 
-Working with the state and external partners, determine where the largest sources of failures are occurring while people are renewing. Where are people being moved from automatic renewal to manual renewal? Where are people struggling or failing when completing a renewal? What methods are most commonly utilized, and what are the biggest problems with those methods?
+Working with the state and external partners, determine the largest sources of administrative burden and churn during renewal. Where are people being moved from automatic renewal to manual renewal? Where are people struggling or falling off when completing a renewal? What methods are most commonly utilized, and what are the biggest problems with those methods?
 
 When determining the problems, it's important to keep the focus on the “end-to-end” renewal process. An ex parte attempt is only the first step in a person's renewal. For the millions of people manually renewing, there are vast opportunities to improve the experience and increase renewal rates.
 
@@ -85,7 +85,7 @@ When determining the problems, it's important to keep the focus on the “end-to
 
 * [Example Data Request Worksheet](./resources/data-request-worksheet.xlsx): This is a worksheet that can be used by the state to begin measuring their renewal flows. Most states will not be able to fill out the entirety of it; that's okay! This should be adapted for the particular state.
 * [Example State Renewals Funnel](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1697032143290/0ae29a54efb9ed41a03dbba35e11e7eba60cfa1e?sender=u46dc9256beb1576a38081536): This is a method of visualizing the "funnel" of Medicaid renewals, and determining which points are the most important to focus on.
-* [Navigator Research Guide](./navigator-research-guide.docx): Working with Navigators is crucial for the success of renewals work. This guide provides a set of resources for explaining, justifying, preparing, and performing work with Navigators. It includes background information on Navigator organizations, example research plans, and email templates for correspondence.
+* [Navigator Research Guide](./resources/navigator-research-guide.docx): Working with [Navigators](https://www.healthcare.gov/glossary/navigator/) is crucial for the success of renewals work. This guide provides a set of resources for explaining, justifying, preparing, and performing work with Navigators. It includes background information on Navigator organizations, example research plans, and email templates for correspondence.
 * [Example Renewal Journey Map](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1697052445632/f3f79359e57b77d23f41d325a131b736c5740263?sender=u46dc9256beb1576a38081536): This template is used to map the journey of a renewal from start to finish. This can be used throughout the investigation and research process for determining challenges and opportunities for improvement.
 
 [Back To Top](#top)
@@ -97,13 +97,13 @@ When determining the problems, it's important to keep the focus on the “end-to
 
 Once problems have been identified, work with the broader cross-functional team to start generating solutions. Often times there will be more problems available to solve than possible to talk through in the given time. Start with high-impact and/or low-effort problems, and present them in turn for consideration. Solutions should be high-level, but estimable. Whenever possible, rely on data or similar solutions in other states as evidence that the solution will, in fact, solve the problem.
 
-Whenever possible, scope should be reduced towards the minimum viable solution. When implementation timelines are given, push back on them if they seem unreasonable. Ask which for clarity on the stages of implementation, and which are projected to take the most amount of time. Can they be reduced? For example, if a change is completely back-end, eliminate any front-end testing. If a change will only affect mobile users, eliminate Desktop testing. If a website is not functional on mobile, change only the pieces to make it functional (as opposed to friendly). Keep asking “why” until the timeline is definitively as small as possible.
+Whenever possible, scope should be reduced towards the minimum viable solution. When implementation timelines are given, push back on them if they seem unreasonable. Ask for clarity on the stages of implementation, and which are projected to take the most amount of time. Can they be reduced? For example, if a change is completely back-end, eliminate any front-end testing. If a change will only affect mobile users, eliminate desktop testing. If a website is not functional on mobile, change only the pieces to make it functional (as opposed to friendly). Keep asking “why” until the timeline is definitively as small as possible.
 
 * **Use the lived experiences of experts.** If the team was able to meet with Navigators and case workers before a solutioning session with the state, bring their ideas and solutions to the table. Treat these as expert opinions, and champion them whenever possible.
 * **Work collaboratively and let states be the heroes.** When solutions are being discussed, the decision makers and implementors should be in the room, driving the process. Give equal weight to everyone's voice, and specifically call out those with on-the-ground knowledge. Pass around artifacts (like a copy of the renewal packet, if available) and let them make changes themselves.
 * **Reference Medicaid rules and regulations.** Any solution MUST be palatable to state policy experts, or it cannot be implemented. Whenever possible, use rules and regulations to create a safe policy space for solutioning. If policy concerns are brought up broadly, read the policy and use it to make a risk calculation. A policy may prohibit something, but in practice that situation may never occur; use lived experiences of Navigators and case workers to make that clear.
 * **Keep asking “why”.** If a timeline doesn't make sense, or seems unrealistic, ask for specifics. If the explanation doesn't make sense, ask for more. We don't need to be the experts on the state systems or processes, but we do need to recognize when a solution isn't as efficient (or impactful) as it can be. “Policy” is often cited as a reason something can't be done; ask for the regulation.
-* **Find the minimum viable solution.** Working with the state staff, eliminate parts of the implementation process that are unnecessary. Focus specifically on stages that may are prone to inflation: testing, for example, or administrative processes. Can these stages be reduced? Don't be satisfied until any solution is the smallest viable solution possible.
+* **Find the minimum viable solution.** Working with the state staff, eliminate parts of the implementation process that are unnecessary. Focus specifically on stages that may are prone to inflation: testing, for example, or administrative processes. Can these stages be reduced? Don't be satisfied until any solution is the smallest viable solution possible. Ask about the emergency release process. Strive to land changes before, rather than just after, any monthly batch run.
 
 #### Workshops and Meetings
 
@@ -124,7 +124,7 @@ The two most important metrics to consider when prioritizing are impact and spee
 Once a set of solutions is prioritized, the state and vendor work together to schedule implementation and begin work. If helpful, play a part in that process as well, taking on roles ranging from advisor to individual contributor.
 
 * **Let the state drive implementation.** States should own and manage the implementation work, and use the civic technology team as much (or as little) as they see fit. Ensure stakeholders are aware of the team's availability, strengths, and connections. If they don't need any extra help, let them do the work!
-* **Meet regularly if needed.** If helpful, meet with stakeholders on a regular basis after the engagement. Gauge how well the work is progressing, and where potential roadblocks could occur.
+* **Meet regularly if needed.** If helpful, meet with stakeholders on a regular basis after the engagement. Gauge how well the work is progressing, and where potential roadblocks could occur. More junior vendor teams may require coaching if they are being asked to deviate from their usual process.
 * **Ask for metrics.** Measuring the impact of the engagement is crucial to ensuring the state and civic technology team's time was well spent. If possible, utilize rigorous methods like A/B testing, pilots, and randomized trials to gather quality data of the effectivity of solutions.
 
 #### Workshops and Meetings
