@@ -11,9 +11,9 @@
 
 ## Background
 
-This playbook was created by the U.S. Digital Service as a rapid-response guide for civic technologists providing direct technical assistance to states during Public Health Emergency (PHE) Unwinding. The content in this playbook focuses on strategies to decrease the burden of Medicaid renewals on members of the public and state staff.
+This playbook was created by the U.S. Digital Service as a rapid-response guide for civic technologists providing direct technical assistance to states during the COVID-19 Public Health Emergency (PHE) Unwinding. The content in this playbook focuses on strategies to rapdily decrease the burden of Medicaid renewals on members of the public and state staff.
 
-This guidebook should **NOT** be considered as authoritative, legal, or regulatory content. It is advisory only, and should be adapted for each particular environment and scenario.
+This playbook is **NOT** a source of authoritative legal or regulatory guidance and has not been officially endorsed by the Center for Medicaid and CHIP Services (CMCS). It is advisory only, and should be adapted appropriately for each state and scenario. Ultimately, it is the responsibility of state Medicaid officials to ensure that implementation of any project is compliant with federal Medicaid statute and regulations.
 
 _[How to add to this guide](./CONTRIBUTING.md)_
 
