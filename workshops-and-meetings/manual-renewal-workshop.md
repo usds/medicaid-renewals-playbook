@@ -23,7 +23,7 @@ For each opportunity, document to the fullest extent possible:
   - Estimations of impact
   - Recommendation solutions
   - Known challenges
-  - Open asks
+  - Open tasks
 
 #### Workshop
 
