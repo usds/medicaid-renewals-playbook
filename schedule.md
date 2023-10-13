@@ -29,7 +29,7 @@ On Wednesday, we have two workshops with the state. These have been loosely orga
   - These meetings should be 90 minutes each, and should not be back-to-back.
   - These will be focused on _identifying_ areas of opportunity for solutioning. Solutioning may get started here, but keep in mind there will be lots to talk about!
   - Vendors **should be present** at these meetings.
-  - If helpful, eligibility workers may be present at these meetings.
+  - If helpful, eligibility workers may be present at these meetings (the project manager *and* relevant subject matter experts).
   - After meeting, the civic technology team should meet with state stakeholders for a quick (~5-10 minute) debrief.
 
 If time permits, there may be additional Navigator meetings on this day.
@@ -39,7 +39,7 @@ If time permits, there may be additional Navigator meetings on this day.
 Thursday has an identical structure to Wednesday:
   - There will be two 90-minute workshops with the state; one on [ex parte renewals](./workshops-and-meetings/ex-parte-workshop.md) amd one on [manual renewals](./workshops-and-meetings/manual-renewal-workshop.md).
   - These meetings should be focused on solutioning, estimation, and prioritization. This is a good time to ask questions like: how long will this take? When can it be scheduled?
-  - Vendors **should be present** at these meetings.
+  - Vendors **should be present** at these meetings (the project manager *and* relevant subject matter experts).
 
 Thursday is typically too late for any additional Navigator meetings.
 
