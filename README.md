@@ -6,7 +6,7 @@
     src="./images/usds-logo.svg">
   </img>
 
-  # U.S. Digital Service - Medicaid Renewals Playbook
+  # U.S. Digital Service - Medicaid Renewals Playbook [DRAFT]
 </div>
 
 ## Background
