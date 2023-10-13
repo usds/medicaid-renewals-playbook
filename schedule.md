@@ -8,13 +8,13 @@ Generally the team is assembled on-site by *Sunday night*. This may or may not b
 
 ## Monday - Navigator Workshop Day
 
-On Monday we typically hold an in-person solutioning workshop with Navigators. This is best held in a city with a large number of Medicaid recipients (and therefore Navigator organizations), which may or may not be the capitol of the state. For more information on the Navigator workshop, see [the facilitation guide](./resources/navigator-facilitation-guide.docx).
+On Monday we typically hold an [in-person solutioning workshop with Navigators](./workshops-and-meetings/navigator-workshop.md). This is best held in a city with a large number of Medicaid recipients (and therefore Navigator organizations), which may or may not be the capitol of the state. For more information on the Navigator workshop, see [the facilitation guide](./resources/navigator-facilitation-guide.docx).
 
 ## Tuesday - Travel to Capitol and/or State Kickoff
 
 Since the Navigator workshop is typically not held in the capitol, on Tuesday the team usually travels to the capitol (or wherever the state staff are working).
 
-There may be a kickoff meeting with the state today. The goals of this meeting are:
+There may be an on-site kickoff meeting with the state today (note: this is different than the [kickoff](./workshops-and-meetings/kickoff.md) done a couple weeks earlier). The goals of this meeting are:
   - Everyone is clear on **who** the civic technology team is and **why** they are here.
   - Everyone from the state, their vendor team, and the civic technology team knows **where** they need to be and **when**.
   - Everyone knows **how** they'll be expected to contribute.
