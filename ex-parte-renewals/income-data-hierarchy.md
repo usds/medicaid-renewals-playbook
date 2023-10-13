@@ -15,7 +15,7 @@ States may also have the ability to query income from other programs like SNAP o
 
 CMS guidance indicates that states should use a **"get-to-yes" strategy** when testing income. This means that if _any_ income data source provides an income that is under the qualifying threshold, then the state should consider the income verified. Some states have chosen to use a more restrictive definition, where multiple (or all) income data sources must agree before determining someone eligible.
 
-Even if the system is described as stepping through data sources one at a time, often the data is queried deparately, in the week before the ex parte process is due to be run. Make sure to be crisp about when data sources are queried or skipped. Note that some sources charge on a per-query basis: this may be the reason why a system seems to be attempting to optimize for fewer queries over maximum information.
+Even if the system is described as stepping through data sources one at a time, often the data is queried separately, in the week before the ex parte process is due to be run. Make sure to have a precise understanding of when and why data sources are queried or skipped. Note that some sources charge on a per-query basis: this may be the reason why a system seems to be attempting to optimize for fewer queries over maximum information.
 
 ## What this looks like
 
