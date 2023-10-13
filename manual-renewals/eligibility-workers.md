@@ -21,4 +21,4 @@ When a process is implemented an eligibility worker task, determine if it is a c
 
 ## Pitfalls
 
-Be aware of possible friction between eligibility workers and thier management. Talk of reducing workload can easily be mis-interepreted as an excuse to reduce staff. These organizations are currently almost universally completely underwater: phrase things in that context. There's already too much work to do with the existing staff, backlogs are growing, etc.
+Be aware of possible friction between eligibility workers and their management. Talk of reducing workload can easily be mis-interpreted as an excuse to reduce staff. These organizations are currently almost universally completely underwater: phrase things in that context. There's already too much work to do with the existing staff, backlogs are growing, etc.
