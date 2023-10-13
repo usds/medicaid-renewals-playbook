@@ -2,22 +2,26 @@
 
 ## Description
 
-States send a variety of messages, and most use mail as the primary delivery mechanism. Mail presents some common challenges for every state; most often, renewal mail may not stand out amongst junk mail, or other mail traffic, resulting in it being thrown away unopened. Mail delivery is also difficult for recipients without permanent addresses or stable living conditions, leading to returned or "bounced" mail.
+States struggle to get important messages to people who need them. Official notices and reminders about renewal dates are not reaching participants who have moved, or changed their phone number or email address over the course of the pandemic. This is particularly challenging for recipients without permanent addresses or stable living conditions, and those who rely on pay-per-minute phones. 
 
-States may utilize other forms of messaging, including email or SMS. These present similar challenges:
-  - Emails or texts may be indistinguishable from spam
-  - SMS requires a consistent cellular connection and number
-  - Email requires a consistent email address
+Even if a member has kept the same phone number, messages may not get through if they have run out of minutes, if their plan doesn't allow texting, or if they live somewhere with poor reception.
+
+If the message does reach the participant, it may still be ignored. Mail, texts, and email from the state can often be hard to distinguish from spam. Often, letters are thrown away unopened and people may be hesitant to click links in texts or email. In some instances people may recognize the mail is from the state but still throw it away unopened. Some states have continued sending mail to particpants throughout the PHE to keep them informed of their continuous coverage, but this has unintentionally conditiond people to think mail from the state is not important or actionable. In other instances, people may throw away mail unopened out of avoidance, because they have a fear of the government or because they find it overwhelming.
+
+In many of these instances, the first time the member learns they've missed their renewal date is when they try to go to the doctor or fill a prescription and learn they have lost their coverage.
+
 
 ## What this looks like
+Data can be used to identify mail and text bounce rates. High rates of returned or "bounced" mail may indicate a lack of updated addresses. 
+Data can also show email open rates and click-through rates to identify whether messaging is getting through and effectively driving people to take action
 
-Mail issues are usually identified anecdotally. If Navigators are reporting that people do not know when they need to renew, or are claiming they never got a renewal packet, that may be an indication of a packet that is not standing out. High rates of returned or "bounced" mail may indicate a lack of updated addresses.
-
-Email or SMS issues are typically harder to diagnose, as there's no indication if the user received and opened the message. However, Navigators and enrollees can be useful sources here as well.
+Research with navigators often highlights the details of these challenges. If navigators are reporting that clients do not know when they need to renew, or are claiming they never got a renewal packet, that may be an indication of a packet that is not standing out. 
 
 ## Potential solutions
 
-For mail outreach, the following may be useful strategies:
-  - Redesigning envelopes to make them stand out amongst other mail
+For outreach, the following may be useful strategies:
+
+  - Redesigning envelopes to make them stand out amongst other mail and make it clear that action is needed
+  - Ad campaigns encouraging people to update their contact information. Ads should be placed in places where Medicaid participants are most likely to see them, such as TV, Radio, bus ads, doctor's offices, and pharmacies. Navigator's should be leveraged to spread the word in their communities.
   - Working with the National Change of Address (NCOA) database or MCOs to update recipient's addresses
-  - Utilizing web-based messaging services like WhatsApp for outreach
+  - Utilizing web-based messaging services like WhatsApp for outreach—participants who run out of minutes may still connect to wifi 
