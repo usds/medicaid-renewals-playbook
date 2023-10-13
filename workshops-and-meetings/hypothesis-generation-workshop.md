@@ -17,7 +17,7 @@ Have state stakeholders pull data to fill in the funnel. This will highlight whe
 ### Goal alignment
 Spend a few minutes to get everyone aligned around the goal of helping more people get through the manual renewal process, and get everyone in a "how might we" mindset and away from feeling defensive.
 
-### Review the funnel. 
+### Review the [funnel](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1697032143290/0ae29a54efb9ed41a03dbba35e11e7eba60cfa1e?sender=u7eb3eb6b160ea46bce751540). 
 This is likely the first time many stakeholders have seen this data, so it's important to review it together to start the meeting with a common understanding of where users are falling out of the process.
 
 ### Generate hypotheses
