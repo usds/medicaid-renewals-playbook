@@ -3,7 +3,8 @@
 <div align="center">
   <img
     width="300px"
-    src="./images/usds-logo.svg">
+    src="./images/usds-logo.svg"
+    alt="The US Digital Service shield logo">
   </img>
 
   # U.S. Digital Service - Medicaid Renewals Playbook [DRAFT]
