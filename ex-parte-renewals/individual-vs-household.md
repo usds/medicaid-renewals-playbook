@@ -11,7 +11,7 @@ Medicaid determinations should be made at the _individual_ level, meaning that i
     alt="A simplified diagram showing two possibilities for a four-member houshold renewal. In one branch, all members of the household can be renewed, so the houshold is renewed. In another branch, three members can be renewed but one member cannot, so the household is not renewed.">
   </img>
 
-  _Household-level eligibility; this is **not** the correct state._
+  _Household-level eligibility; this logic is **incorrect**._
   
   <img
     width="500px"
@@ -19,7 +19,7 @@ Medicaid determinations should be made at the _individual_ level, meaning that i
     alt="A simplified diagram showing a renewal performed for a four-person household on the individual level. Three members of the household are renewed. One member cannot be renewed.">
   </img>
 
-  _Individual eligibility; this is the **correct** state._
+  _Individual eligibility; this logic is **correct**._
 </div>
 
 The USDS first identified this defect across several state systems while providing technical assistance, and in August 2023 [CMCS notified](https://www.medicaid.gov/sites/default/files/2023-08/state-ltr-ensuring-renewal-compliance.pdf) all state Medicaid agencies that they needed to urgently identify and fix this defect. By September 2023, [29 states](https://www.medicaid.gov/sites/default/files/2023-09/state-asesment-compliance-auto-ren-req.pdf) self-attested to being afflicted by the defect. As of October 2023, all of these states are actively working to resolve this issue and have a mitigation plan in place. You should speak with your state partners to understand if they need assistance executing on their mitigation plans. 
