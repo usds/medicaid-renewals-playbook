@@ -10,8 +10,6 @@ States are required to ask for an individual's social security number when they 
 
 SSNs are required to perform electronic income checks. However, many of these people may not need to have an electronic income check performed for the following reasons:
   - Anyone under the age of 14 cannot legally make an income, and therefore do not need an income check run on them individually. These children should not be excluded from ex parte renewal if they do not have an SSN on file.
-  - If the state has implemented the 100% FPL waiver, they do not need to check income for someone without an SSN.
-    - The waiver itself allows for the state to skip the income check if no data was available from data sources. Because all data sources _typically_ require an SSN, the state has nothing to query, and therefore no data from electronic data sources available for the individual.
   - If the state is verifying income via categorical eligibility (SNAP, for example), they do not need to perform an additional income check
 
 Despite these considerations, many state eligibility systems exclude **all** individuals without an SSN from being run through the full ex parte before eligibility logic. 
