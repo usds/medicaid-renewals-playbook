@@ -5,8 +5,8 @@
 CMS has provided flexibility for states to perform ex parte renewals through the [1902(e)(14)(a)](https://www.medicaid.gov/resources-for-states/coronavirus-disease-2019-covid-19/unwinding-and-returning-regular-operations-after-covid-19/covid-19-phe-unwinding-section-1902e14a-waiver-approvals/index.html) process. However, many states may have struggled with the implementation of these waivers, or may not have the most efficient implementation possible.
 
 Waivers that states may be struggling with:
-  - *100% FPL Waiver*: Anyone with a verified income less than 100% FPL can be renewed if there's no data available from electronic sources.
-  - *0% FPL Waiver*: Anyone with a verified income at 0% FPL can be renewed if there's no data available from electronic sources.
+  - *100% FPL Waiver*: Anyone with a verified income less than 100% FPL can be renewed if there's no data available from electronic sources. A person can be ex parte renewed if: _(1) the most recent income determination (either at initial application or most recent renewal) was no earlier than 12 months prior to the beginning of the PHE (i.e., March 2019) and was based on verified income at or below 100% of FPL; and (2) state has checked financial data sources in accordance with its verification plan and no information is received._
+  - *0% FPL Waiver*: Anyone with a verified income at 0% FPL can be renewed if there's no data available from electronic sources. A person can be ex parte renewed if: _(1) the most recent income determination (either at initial application or most recent renewal) was no earlier than 12 months prior to the beginning of the PHE (i.e., March 2019) and was based on verified income at or below 0% of FPL; and (2) state has checked financial data sources in accordance with its verification plan and no information is received._
   - *SNAP/TANF Categorical Eligibility*: Anyone receiving SNAP or TANF is not subject to an income test.
   - *Removal of asset test*: Assets are no longer a consideration for eligibility.
 
