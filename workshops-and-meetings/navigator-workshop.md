@@ -1,5 +1,13 @@
 # Navigator Workshop
 
+<div align="center">
+  <img
+    width="500px"
+    src="../images/navigator-workshop-stickies.jpg"
+    alt="Multi-colored sticky notes on a wall, with notes of challenges and potential solutions to renewal problems. Examples include 'Simplify Notices', 'Make mail more obvious', and 'Allow early renewal'">
+  </img>
+</div>
+
 **When**: Usually on the Monday of the on-site, but can be any day early in the week of the on-site.
 
 **Who**: The civic technology team, at least one representative from the state staff, and members of the Navigator organizations.
