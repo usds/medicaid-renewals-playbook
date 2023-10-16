@@ -7,7 +7,7 @@ When presented with a policy, states are saddled with the burden of turning that
 ## What this looks like
 
 The following are signs that the implementation logic may not match policy:
-  - Unintelligble error codes
+  - Unintelligible error codes
   - Failure reasons that no one can explain
   - Very old/outdated documentation
   - References to old policies
