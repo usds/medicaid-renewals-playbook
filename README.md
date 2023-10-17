@@ -24,6 +24,7 @@ Common opportunities:
 - [Common Manual Renewal Opportunities](./manual-renewals)
 
 Plays & resources from USDS state engagements:
+- [0 - Framing](#play-0)
 - [1 - Establish Trust and Urgency](#play-1)
 - [2 - Identify Problems](#play-2)
 - [3 - Generate Solutions](#play-3)
@@ -32,6 +33,21 @@ Plays & resources from USDS state engagements:
 ---
 
 ## Plays
+
+<a name="play-0"></a>
+### 0 // Framing
+
+Before beginning any work, it's important that the team is clear on the **framing** for this work. Without a clear, consistent offering, state partners won't understand (and won't invest in) the offering of the team.
+
+- **Start with the problems we know about.** - States are very aware that metrics like ex parte rate and churn are highly scrutinized right now. They may not be aware of less-visible issues, like process inefficiencies or renewal hurdles. Frame the work as an analysis on the problems right in front of our eyes, and let the state know that if new problems are discovered, they'll be brought to light.
+- **We deliver recommendations, NOT revolutions.** - Changing an entire system, process, or policy is a long and difficult process. Make it clear from the beginning: we're here to deliver recommendations that will help NOW. If there is long-term work to be done, we'll be happy to bring that to light in our recommendations. But our focus is on the short-term improvements that can be made quickly.
+- **The state is in charge.** - In all cases, the state should have the final say on what is helpful. The process defined in this playbook has served previous engagements well, but ultimately it is up to the state to determine what activities are best suited for the time they're investing.
+
+It is _critical_ that the narrative is consistent across all conversations with state partners.
+
+[Back To Top](#top)
+
+---
 
 <a name="play-1"></a>
 ### 1 // Establish Trust and Urgency
