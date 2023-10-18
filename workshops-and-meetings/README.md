@@ -8,5 +8,5 @@
   - [Manual Renewal Workshops](./manual-renewal-workshop.md)
 - The last day of the on-site week
   - [Closing Meeting](./closing.md)
-- the week following on-site
+- The week following on-site
   - [Prioritization Session](./prioritization-session.md)
