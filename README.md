@@ -53,6 +53,13 @@ As civic technologists jumping in to support states, it is important that teams 
 <a name="play-1"></a>
 ### 1. Establish Trust and Urgency
 
+<div align="center">
+  <img
+    width="300px"
+    src="./images/team.svg"
+    alt="Three people sitting at a table with laptops, having a discussion" />
+</div>
+
 It's crucial to establish a relationship of trust and clear expectations with state partners at the beginning of the project. Every stage of the process is predicated on an open exchange of details and data about how systems are performing.
 
 In addition, all members of the team -- including vendors -- must understand the urgency and criticality of the project. Leadership should be engaged regularly from the beginning, and the work should be made a top priority. Common goals should be established at the beginning of the project so that everyone understands what success looks like.
@@ -82,6 +89,14 @@ Workshops
 <a name="play-2"></a>
 ### 2. Identify Problems
 
+<div align="center">
+  <img
+    width="300px"
+    src="./images/file-analysis.svg"
+    alt="A person standing in front of a large preresntation of file, doing analysis" />
+</div>
+
+
 Working with the state and external partners, determine the largest sources of administrative burden and churn during renewal. Where are people being moved from automatic renewal to manual renewal? Where are people struggling or falling off when completing a renewal? What methods are most commonly utilized, and what are the biggest problems with those methods?
 
 When determining the problems, it's important to keep the focus on the “end-to-end” renewal process. An ex parte attempt is only the first step in a person's renewal. For the millions of people manually renewing, there are vast opportunities to improve the experience and increase renewal rates.
@@ -110,7 +125,15 @@ Workshops
 ---
 
 <a name="play-3"></a>
+
 ### 3. Generate Solutions
+
+<div align="center">
+  <img
+    width="300px"
+    src="./images/solutioning.svg"
+    alt="Two people looking at a diagram. The diagram shows two blocks of text, and a circle with arrows pointing towards each block." />
+</div>
 
 Once problems have been identified, work with the broader cross-functional team to start generating solutions. Often times there will be more problems available to solve than possible to talk through in the given time. Start with high-impact and/or low-effort problems, and present them in turn for consideration. Solutions should be high-level, but estimable. Whenever possible, rely on data or similar solutions in other states as evidence that the solution will, in fact, solve the problem.
 
@@ -132,6 +155,14 @@ Workshops
 
 <a name="play-4"></a>
 ### 4. Prioritize and Implement
+
+<div align="center">
+  <img
+    width="300px"
+    src="./images/building-website.svg"
+    alt="Three people surround a browser window, making manual edits to it by placing components on the window itself" />
+</div>
+
 
 There will always be more problems to solve than there are resources available to solve them. State Medicaid teams are overwhelemed with priorities and ongoing work, and providing clarity through data-driven priortization is critical. Driving clear priortization with stakeholders allows the implementation teams to focus correctly on areas with the highest impact and quickest timelines.
 
