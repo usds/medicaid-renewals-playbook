@@ -8,6 +8,8 @@ Even if a member has kept the same phone number, messages may not get through if
 
 If the message does reach the participant, it may still be ignored. Mail, texts, and email from the state can often be hard to distinguish from spam. Often, letters are thrown away unopened and people may be hesitant to click links in texts or email. In some instances people may recognize the mail is from the state but still throw it away unopened. Some states have continued sending mail to particpants throughout the PHE to keep them informed of their continuous coverage, but this has unintentionally conditiond people to think mail from the state is not important or actionable. In other instances, people may throw away mail unopened out of avoidance, because they have a fear of the government or because they find it overwhelming.
 
+Even if they do receive and open the message, members may struggle to understand them. See [Paper Notices](./paper-notices.md) to learn more about this challenge. 
+
 In many of these instances, the first time the member learns they've missed their renewal date is when they try to go to the doctor or fill a prescription and learn they have lost their coverage.
 
 
