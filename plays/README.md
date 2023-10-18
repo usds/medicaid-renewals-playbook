@@ -17,6 +17,13 @@ Plays and resources:
 <a name="framing"></a>
 ## Advice on Framing
 
+<div align="center">
+  <img
+    width="300px"
+    src="../images/framing.svg"
+    alt="A person sitting on the frame of a picture. The picture depicts a mountain." />
+</div>
+
 As civic technologists jumping in to support states, it is important that teams are clear on the **framing** of their work. Without a clear well-messaged offerings state partners won't understand - and won't invest in - the team.
 
 - **Close the gap between policy and implementation** - Most states have adopted helpful policy postures for the unwinding period and have a broad range of flexibilities that should make renewals more seamless for beneficiaries. States are proud of and have conviction in the work that they have done to rapidly adopt these policy wins. Unfortunately, many of these policies remain on paper only and have not been implemented in systems and optimized to have the maximum impact for beneficiaries. As civic technologists, we are here to help states realize the goals of their good policy making through implementation and delivery support. 
