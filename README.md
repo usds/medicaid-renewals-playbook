@@ -90,6 +90,14 @@ Workshops
 <a name="play-2"></a>
 ### 2. Identify Problems
 
+<div align="center">
+  <img
+    width="300px"
+    src="./images/bug-fix.xvg"
+    alt="A person holding a wrench in front of an application window containing an illustration of a bug and text"
+</div>
+
+
 Working with the state and external partners, determine the largest sources of administrative burden and churn during renewal. Where are people being moved from automatic renewal to manual renewal? Where are people struggling or falling off when completing a renewal? What methods are most commonly utilized, and what are the biggest problems with those methods?
 
 When determining the problems, it's important to keep the focus on the “end-to-end” renewal process. An ex parte attempt is only the first step in a person's renewal. For the millions of people manually renewing, there are vast opportunities to improve the experience and increase renewal rates.
