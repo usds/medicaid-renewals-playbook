@@ -56,6 +56,7 @@ It is _critical_ that the narrative is consistent across all conversations with 
 
 <div align="center">
   <img
+    width="300px"
     src="./images/conversation.svg"
     alt="Three people at a table, holding drinks and having a conversation" />
 </div>
