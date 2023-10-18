@@ -126,7 +126,15 @@ Workshops
 ---
 
 <a name="play-3"></a>
+
 ### 3. Generate Solutions
+
+<div align="center">
+  <img
+    width="300px"
+    src="./images/solutioning.svg"
+    alt="Two people looking at a diagram. The diagram shows two blocks of text, and a circle with arrows pointing towards each block." />
+</div>
 
 Once problems have been identified, work with the broader cross-functional team to start generating solutions. Often times there will be more problems available to solve than possible to talk through in the given time. Start with high-impact and/or low-effort problems, and present them in turn for consideration. Solutions should be high-level, but estimable. Whenever possible, rely on data or similar solutions in other states as evidence that the solution will, in fact, solve the problem.
 
