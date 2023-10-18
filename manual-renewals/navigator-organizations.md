@@ -27,4 +27,4 @@ In most states, there is _some_ interaction between Navigators and the state. Di
 
 ## Potential solutions
 
-A key step to improving the Navigator-state relationship is to bring state staff members into the room when doing research with navigators. In interviews with Navigators, either invite state staff to participate in person, or virtually. During [the Navigator workshop](../workshops-and-meetings.md), have the state staff present and actively participate.
+A key step to improving the Navigator-state relationship is to bring state staff members into the room when doing research with navigators. In interviews with Navigators, either invite state staff to participate in person, or virtually. During [the Navigator workshop](../logistics/navigator-workshop.md), have the state staff present and actively participate.
