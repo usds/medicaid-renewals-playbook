@@ -157,6 +157,14 @@ Workshops
 <a name="play-4"></a>
 ### 4. Prioritize and Implement
 
+<div align="center">
+  <img
+    width="300px"
+    src="./images/building-website.svg"
+    alt="Three people surround a browser window, making manual edits to it by placing components on the window itself" />
+</div>
+
+
 There will always be more problems to solve than there are resources available to solve them. State Medicaid teams are overwhelemed with priorities and ongoing work, and providing clarity through data-driven priortization is critical. Driving clear priortization with stakeholders allows the implementation teams to focus correctly on areas with the highest impact and quickest timelines.
 
 The two most important metrics to consider when prioritizing are impact and speed. Impact is typically measured in number of successful renewals per month, while speed is measured in time to implementation. Importantly, these numbers are almost always estimates, and can be very rough; for example, improving the design of a renewal notice may increase the number of successful renewals based on the number of people receiving the notice, but it is difficult to estimate.
