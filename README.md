@@ -19,6 +19,9 @@ This playbook was created by the U.S. Digital Service as a rapid-response guide 
 Please contribute to this repository with your questions or additions. To do so, check out _[How to add to this guide](./CONTRIBUTING.md)_
 
 ### Table of contents
+
+[Framing](#framing)
+
 Plays and resources:
 1. [Establish Trust and Urgency](#play-1)
 2. [Identify Problems](#play-2)
@@ -28,6 +31,21 @@ Plays and resources:
 Common opportunities:
 - [Common Ex Parte Opportunities](./ex-parte-renewals)
 - [Common Manual Renewal Opportunities](./manual-renewals)
+
+---
+
+<a name="framing"></a>
+## Framing
+
+Before beginning any work, it's important that the team is clear on the **framing** for this work. Without a clear, consistent offering, state partners won't understand (and won't invest in) the offering of the team.
+
+- **Start with the problems we know about.** - States are very aware that metrics like ex parte rate and churn are highly scrutinized right now. They may not be aware of less-visible issues, like process inefficiencies or renewal hurdles. Frame the work as an analysis on the problems right in front of our eyes, and let the state know that if new problems are discovered, they'll be brought to light.
+- **We deliver recommendations, NOT revolutions.** - Changing an entire system, process, or policy is a long and difficult process. Make it clear from the beginning: we're here to deliver recommendations that will help NOW. If there is long-term work to be done, we'll be happy to bring that to light in our recommendations. But our focus is on the short-term improvements that can be made quickly.
+- **The state is in charge.** - In all cases, the state should have the final say on what is helpful. The process defined in this playbook has served previous engagements well, but ultimately it is up to the state to determine what activities are best suited for the time they're investing.
+
+It is _critical_ that the narrative is consistent across all conversations with state partners.
+
+[Back To Top](#top)
 
 ---
 
