@@ -96,15 +96,15 @@ When determining the problems, it's important to keep the focus on the “end-to
 
 #### Resources
 Guides
-* [Navigator Research Guide](./resources/navigator-research-guide.docx): Working with [Navigators](https://www.healthcare.gov/glossary/navigator/) is crucial for the success of renewals work. This guide provides a set of resources for explaining, justifying, preparing, and performing work with Navigators. It includes background information on Navigator organizations, example research plans, and email templates for correspondence.
+  * [Navigator Research Guide](./resources/navigator-research-guide.docx): Working with [Navigators](https://www.healthcare.gov/glossary/navigator/) is crucial for the success of renewals work. This guide provides a set of resources for explaining, justifying, preparing, and performing work with Navigators. It includes background information on Navigator organizations, example research plans, and email templates for correspondence.
 
 Templates
   * [Data Request Worksheet](./resources/data-request-worksheet.xlsx): A worksheet that can be used by the state to begin measuring their end-to-end renewal funnel. Some states will not be able to fill out all fields in the template; that's okay! This template can and should be adapted for the particular state.
-* [State Renewals Funnel](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1697032143290/0ae29a54efb9ed41a03dbba35e11e7eba60cfa1e?sender=u46dc9256beb1576a38081536): A method for visualizing the end-to-end funnel of Medicaid renewals, and determining which drop-off points are the most critical to focus on.
-* [Renewal Journey Map](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1697052445632/f3f79359e57b77d23f41d325a131b736c5740263?sender=u46dc9256beb1576a38081536): A method for mapping a member's renewal journey from start to finish. This can be used throughout the investigation and research process for determining challenges and opportunities for improvement.
+  * [State Renewals Funnel](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1697032143290/0ae29a54efb9ed41a03dbba35e11e7eba60cfa1e?sender=u46dc9256beb1576a38081536): A method for visualizing the end-to-end funnel of Medicaid renewals, and determining which drop-off points are the most critical to focus on.
+  * [Renewal Journey Map](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1697052445632/f3f79359e57b77d23f41d325a131b736c5740263?sender=u46dc9256beb1576a38081536): A method for mapping a member's renewal journey from start to finish. This can be used throughout the investigation and research process for determining challenges and opportunities for improvement.
 
 Workshops
-* [Navigator Workshop](./workshops-and-meetings/navigator-workshop.md): Typically, at the beginning of the week, we hold a convening of Navigators focused on generating potential solutions.
+  * [Navigator Workshop](./workshops-and-meetings/navigator-workshop.md): Typically, at the beginning of the week, we hold a convening of Navigators focused on generating potential solutions.
   * [Ex Parte Workshop #1](./workshops-and-meetings/ex-parte-workshop.md): The first ex parte workshop, typically held in the week of the on-site, is focused on identifying opportunities for improvement in the ex parte renewal flow.
   * [Manual Renewal Workshop #1](./workshops-and-meetings/manual-renewal-workshop.md): The first manual renewal workshop, typically held in the week of the on-site, is focused on bringing the experiences and solutions from research with Navigators to the state so that solutioning can begin.
 
@@ -126,8 +126,8 @@ Whenever possible, scope should be reduced towards the minimum viable solution. 
 
 #### Resources
 Workshops
-* [Ex Parte Workshop #2](./workshops-and-meetings/ex-parte-workshop.md): The second ex parte workshop is focused around implementation details and aligning on potential solutions.
-* [Manual Renewal Workshop #2](./workshops-and-meetings/manual-renewal-workshop.md): The second manual renewal workshop is focused on determining implementation plans and assigning owners to action items.
+  * [Ex Parte Workshop #2](./workshops-and-meetings/ex-parte-workshop.md): The second ex parte workshop is focused around implementation details and aligning on potential solutions.
+  * [Manual Renewal Workshop #2](./workshops-and-meetings/manual-renewal-workshop.md): The second manual renewal workshop is focused on determining implementation plans and assigning owners to action items.
 
 ---
 
