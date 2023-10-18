@@ -56,8 +56,8 @@ It is _critical_ that the narrative is consistent across all conversations with 
 
 <div align="center">
   <img
-    src="./pictures/conversation.svg"
-    alt="A stock image of three people at a able, holding drinks and having a conversation" />
+    src="./images/conversation.svg"
+    alt="Three people at a table, holding drinks and having a conversation" />
 </div>
 
 It's crucial to establish a relationship of trust and clear expectations with state partners at the beginning of the project. Every stage of the process is predicated on an open exchange of details and data about how systems are performing.
