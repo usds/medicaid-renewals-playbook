@@ -19,8 +19,10 @@ This playbook was created by the U.S. Digital Service as a rapid-response guide 
 Please contribute to this repository with your questions or additions. To do so, check out _[How to add to this guide](./CONTRIBUTING.md)_
 
 ### Table of contents
+
+[Framing](#framing)
+
 Plays and resources:
-0. [0 - Framing](#play-0)
 1. [Establish Trust and Urgency](#play-1)
 2. [Identify Problems](#play-2)
 3. [Generate Solutions](#play-3)
@@ -32,10 +34,8 @@ Common opportunities:
 
 ---
 
-## Plays
-
-<a name="play-0"></a>
-### 0 // Framing
+<a name="framing"></a>
+## Framing
 
 Before beginning any work, it's important that the team is clear on the **framing** for this work. Without a clear, consistent offering, state partners won't understand (and won't invest in) the offering of the team.
 
@@ -48,6 +48,8 @@ It is _critical_ that the narrative is consistent across all conversations with 
 [Back To Top](#top)
 
 ---
+
+## Plays
 
 <a name="play-1"></a>
 ### 1. Establish Trust and Urgency
