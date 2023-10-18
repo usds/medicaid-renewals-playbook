@@ -93,7 +93,7 @@ Workshops
 <div align="center">
   <img
     width="300px"
-    src="./images/bug-fix.xvg"
+    src="./images/bug-fix.svg"
     alt="A person holding a wrench in front of an application window containing an illustration of a bug and text" />
 </div>
 
