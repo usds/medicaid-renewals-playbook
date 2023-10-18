@@ -1,6 +1,8 @@
 <a name="top"></a>
 
-# Table of contents
+# Framing, Plays, and Resources
+
+## Table of contents
 
 [Framing](#framing)
 
@@ -13,7 +15,7 @@ Plays and resources:
 ---
 
 <a name="framing"></a>
-# Advice on Framing
+## Advice on Framing
 
 As civic technologists jumping in to support states, it is important that teams are clear on the **framing** of their work. Without a clear well-messaged offerings state partners won't understand - and won't invest in - the team.
 
@@ -26,10 +28,10 @@ As civic technologists jumping in to support states, it is important that teams 
 
 ---
 
-# Plays
+## Plays
 
 <a name="play-1"></a>
-## 1. Establish Trust and Urgency
+### 1. Establish Trust and Urgency
 
 <div align="center">
   <img
@@ -50,7 +52,7 @@ In addition, all members of the team -- including vendors -- must understand the
 * **Adopt terminology from the state.** For example, if a "renewal" is called a “review” in the state, this term should be used throughout the project. 
 * **Go where the work is.** Travel to where your state partners and their Medicaid members are. This establishes urgency for the work, builds rapport, and creates momentum around generating solutions and decision-making.
 
-### Resources
+#### Resources
 Guides
   * [Medicaid 101](../resources/medicaid-101.pdf): A _brief and informal_ overview of the Medicaid program. This presentation **should not** be taken as legal authority or advice, but used as a quick introduction to the program.
 
@@ -65,7 +67,7 @@ Workshops
 ---
 
 <a name="play-2"></a>
-## 2. Identify Problems
+### 2. Identify Problems
 
 <div align="center">
   <img
@@ -86,7 +88,7 @@ When determining the problems, it's important to keep the focus on the “end-to
 * **Don't split the party.** Approach the system from a holistic, human-centered perspective; don't separate into siloed engineering, policy, design, or research teams. Those responsible for ex parte policy and systems changes may not have had the opportunity to meet with eligibility workers to understand how they process a renewal, necessary context for identifying root causes of ex parte failures. Common challenges reported by Navigators highlight not only opportunities to improve the manual renewal process, but also opportunities for ex parte logic changes. 
 
 
-### Resources
+#### Resources
 Guides
   * [Navigator Research Guide](../resources/navigator-research-guide.docx): Working with [Navigators](https://www.healthcare.gov/glossary/navigator/) is crucial for the success of renewals work. This guide provides a set of resources for explaining, justifying, preparing, and performing work with Navigators. It includes background information on Navigator organizations, example research plans, and email templates for correspondence.
 
@@ -104,7 +106,7 @@ Workshops
 
 <a name="play-3"></a>
 
-## 3. Generate Solutions
+### 3. Generate Solutions
 
 <div align="center">
   <img
@@ -124,7 +126,7 @@ Whenever possible, scope should be reduced towards the minimum viable solution. 
 * **Keep asking “why”.** If a timeline doesn't make sense, or seems unrealistic, ask for specifics. If the explanation doesn't make sense, ask for more. We don't need to be the experts on the state systems or processes, but we do need to recognize when a solution isn't as efficient (or impactful) as it can be. “Policy” is often cited as a reason something can't be done; ask for the regulation.
 * **Find the minimum viable solution.** Working with the state staff, eliminate parts of the implementation process that are unnecessary. Focus specifically on stages that may are prone to inflation: testing, for example, or administrative processes. Can these stages be reduced? Don't be satisfied until any solution is the smallest viable solution possible. Ask about the emergency release process. Strive to land changes before, rather than just after, any monthly batch run.
 
-### Resources
+#### Resources
 Workshops
   * [Ex Parte Workshop #2](../workshops-and-meetings/ex-parte-workshop.md): The second ex parte workshop is focused around implementation details and aligning on potential solutions.
   * [Manual Renewal Workshop #2](../workshops-and-meetings/manual-renewal-workshop.md): The second manual renewal workshop is focused on determining implementation plans and assigning owners to action items.
@@ -132,7 +134,7 @@ Workshops
 ---
 
 <a name="play-4"></a>
-## 4. Prioritize and Implement
+### 4. Prioritize and Implement
 
 <div align="center">
   <img
@@ -154,7 +156,7 @@ Once a set of solutions is prioritized, the state and vendor work together to sc
 
 * **Ask for metrics.** Measuring the impact of the engagement is crucial to ensuring the state and civic technology team's time was well spent. If possible, utilize rigorous methods like A/B testing, pilots, and randomized trials to gather quality data of the effectivity of solutions.
 
-### Resources
+#### Resources
 Templates
  * [Example Recommendations Document](../resources/example-recommendations-document.docx): At the end of the on-site week, all recommendations agreed upon by _both the state and the civic technology team_ are documented in this recommendations report, which is then delivered to the state Medicaid leadership.
 
