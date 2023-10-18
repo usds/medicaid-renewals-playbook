@@ -54,6 +54,12 @@ It is _critical_ that the narrative is consistent across all conversations with 
 <a name="play-1"></a>
 ### 1. Establish Trust and Urgency
 
+<div align="center">
+  <img
+    src="./pictures/conversation.svg"
+    alt="A stock image of three people at a able, holding drinks and having a conversation" />
+</div>
+
 It's crucial to establish a relationship of trust and clear expectations with state partners at the beginning of the project. Every stage of the process is predicated on an open exchange of details and data about how systems are performing.
 
 In addition, all members of the team -- including vendors -- must understand the urgency and criticality of the project. Leadership should be engaged regularly from the beginning, and the work should be made a top priority. Common goals should be established at the beginning of the project so that everyone understands what success looks like.
