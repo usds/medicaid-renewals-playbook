@@ -74,6 +74,9 @@ In addition, all members of the team -- including vendors -- must understand the
 
 #### Resources
 Guides
+  * [Benefits Data Trust: Medicaid Churn Overview & FAQ](https://bdtrust.org/Prioritization_Tool.docx)
+  * [Benefits Data Trust: Goal Setting](https://bdtrust.org/Goal_Setting.docx)
+  * [Benefits Data Trust: Stakeholder Engagement](https://bdtrust.org/Stakeholder_Engagement.docx)
   * [Medicaid 101](./resources/medicaid-101.pdf): A _brief and informal_ overview of the Medicaid program. This presentation **should not** be taken as legal authority or advice, but used as a quick introduction to the program.
 
 Templates
@@ -179,6 +182,9 @@ Once a set of solutions is prioritized, the state and vendor work together to sc
 #### Resources
 Templates
  * [Example Recommendations Document](./resources/example-recommendations-document.docx): At the end of the on-site week, all recommendations agreed upon by _both the state and the civic technology team_ are documented in this recommendations report, which is then delivered to the state Medicaid leadership.
+
+Guides
+* [Benefits Data Trust: Prioritization Tool](https://bdtrust.org/Prioritization_Tool.docx)
 
 Workshops
   * [Closing Meeting](./workshops-and-meetings/closing.md): This meeting is typically held at the end of the on-site week. It is an opportunity to present recommendations to the state senior leadership, and re-affirm the agreed upon actions.
