@@ -74,9 +74,9 @@ In addition, all members of the team -- including vendors -- must understand the
 
 #### Resources
 Guides
-  * [Benefits Data Trust: Medicaid Churn Overview & FAQ](https://bdtrust.org/Prioritization_Tool.docx)
-  * [Benefits Data Trust: Goal Setting](https://bdtrust.org/Goal_Setting.docx)
-  * [Benefits Data Trust: Stakeholder Engagement](https://bdtrust.org/Stakeholder_Engagement.docx)
+  * [Benefits Data Trust: Medicaid Churn Overview & FAQ](https://bdtrust.org/Prioritization_Tool.docx): The background, causes, impacts, and mitigations of Medicaid churn.
+  * [Benefits Data Trust: Goal Setting](https://bdtrust.org/Goal_Setting.docx): Establish SMART (Specific, Measurable, Achievable, Relevant, and Time-bound) goals for addressing Medicaid churn.
+  * [Benefits Data Trust: Stakeholder Engagement](https://bdtrust.org/Stakeholder_Engagement.docx):I dentify who needs to be part of the process based on knowledge/expertise & capacity. Identify opportunities for engagement & establish and implement a strategy for engagement.
   * [Medicaid 101](./resources/medicaid-101.pdf): A _brief and informal_ overview of the Medicaid program. This presentation **should not** be taken as legal authority or advice, but used as a quick introduction to the program.
 
 Templates
@@ -184,7 +184,7 @@ Templates
  * [Example Recommendations Document](./resources/example-recommendations-document.docx): At the end of the on-site week, all recommendations agreed upon by _both the state and the civic technology team_ are documented in this recommendations report, which is then delivered to the state Medicaid leadership.
 
 Guides
-* [Benefits Data Trust: Prioritization Tool](https://bdtrust.org/Prioritization_Tool.docx)
+* [Benefits Data Trust: Prioritization Tool](https://bdtrust.org/Prioritization_Tool.docx): Determine what policy and process solutions are feasible by analyzing the risk, value, cost and effort of implementation and establish action steps for implementing proposed policy & process changes.
 
 Workshops
   * [Closing Meeting](./workshops-and-meetings/closing.md): This meeting is typically held at the end of the on-site week. It is an opportunity to present recommendations to the state senior leadership, and re-affirm the agreed upon actions.
