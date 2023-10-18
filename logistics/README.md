@@ -2,7 +2,6 @@
 
 These pages deal with **how to run a USDS-style state engagement**. Consider this a reference for how to plan and execute, but adapt and modify to your team's needs!
 
-- [Team Competencies](./team-competencies)
 - [Example Schedule](./schedule.md)
 - Workshops and Meetings
   - [Hypothesis Generation Workshop](./workshops-and-meetings/hypothesis-generation-workshop.md)
