@@ -3,27 +3,56 @@
 Members who are not ex parte renewed for Medicaid must complete and turn in an annual renewal form. States are required to offer multiple modalities for completing and turning in the form, including a paper form mailed to the member’s house, an online renewal form, or an over-the-phone option. Regardless of the path, completing a renewal form can be burdensome and time-intensive for members. 
 
 ## Challenges
-### General challenges
-- **Size of the renewal packet.** The size of the renewal form is daunting, averaging 15-20 pages. After opening their renewal packet in the mail or accessing it online, some decide not to complete it.
-- **Lack of plain language.** It’s challenging to understand what’s required across each section of the renewal form due to use of complex terms, lack of plain language, or unclear visual hierarchy.
--	**Language access.** Many have limited English proficiency and require translated materials to complete their renewal. However, not all languages are supported and members report variable quality across translated materials.
--	**Income reporting.** Understanding how to report current income and provide documents to prove it is one of the largest pain points across renewal forms, especially for non-W-2 earners. Words like “gross income” and the difference between “bi-weekly” and “semi-monthly” are unfamiliar to many. It’s intimidating to provide documents without assurance that the document will be accepted.
+**Size of the renewal packet** 
+<br>The size of the renewal form is daunting, averaging 15-20 pages. After opening their renewal packet in the mail or accessing it online, some decide not to complete it.
+
+**Lack of plain language** 
+<br>It’s challenging to understand what’s required across each section of the renewal form due to use of complex terms, lack of plain language, or unclear visual hierarchy.
+
+**Language access**
+<br>Many have limited English proficiency and require translated materials to complete their renewal. However, not all languages are supported and members report variable quality across translated materials.
+
+**Income reporting**
+<br>Understanding how to report current income and provide documents to prove it is one of the largest pain points across renewal forms, especially for non-W-2 earners. Words like “gross income” and the difference between “bi-weekly” and “semi-monthly” are unfamiliar to many. It’s intimidating to provide documents without assurance that the document will be accepted.
 
 ### Online forms
-- **Multiple platforms.** Some states advertise multiple online portals to renew online, creating confusion and frustration for some members. It’s unclear which is the “official” route to renew online or which is the easiest path for them.
-- **Account access.** Most states encourage members to renew online. However, members face challenges creating an account, logging in, and retrieving their password in order to renew. Many renewers don’t have access to a device to complete the online renewal, have no email account, and limited internet experience. 
-- **Identity verification.** Many eligible Medicaid members are unbanked or underbanked and, as such, are not represented in common identity verification databases. Furthermore, some states use Knowledge-Based Identity Verification which requires members to recall obscure facts that many do not remember. In many states, when a member’s identity cannot be verified, they are not able to renew online or view submitted documents.
-- **Navigator permissions.** Navigators play a crucial role in helping Medicaid members who cannot complete their renewal without assistance. However, across online portals, Navigators typically only have access to a limited view of client information. As a result, Navigators are required to call county or state-run Medicaid hotlines for basic information such as when a client is due for renewal or whether an eligibility worker has received the client’s documents. 
-- **File size limits.** Many online renewal document upload portals have small file size limits which require members, Navigators, and eligibility workers to manually reduce the size of images or PDF documents before uploading them. This is a time intensive, burdensome process for those with experience on how to do it and impossible for some to figure out.
+**Multiple platforms**
+<br>Some states advertise multiple online portals to renew online, creating confusion and frustration for some members. It’s unclear which is the “official” route to renew online or which is the easiest path for them.
+
+**Account access**
+<br>Most states encourage members to renew online. However, members face challenges creating an account, logging in, and retrieving their password in order to renew. Many renewers don’t have access to a device to complete the online renewal, have no email account, and limited internet experience. 
+
+**Identity verification**
+<br>Many eligible Medicaid members are unbanked or underbanked and, as such, are not represented in common identity verification databases. Furthermore, some states use Knowledge-Based Identity Verification which requires members to recall obscure facts that many do not remember. In many states, when a member’s identity cannot be verified, they are not able to renew online or view submitted documents.
+
+**Navigator permissions**
+<br>Navigators play a crucial role in helping Medicaid members who cannot complete their renewal without assistance. However, across online portals, Navigators typically only have access to a limited view of client information. As a result, Navigators are required to call county or state-run Medicaid hotlines for basic information such as when a client is due for renewal or whether an eligibility worker has received the client’s documents. 
+
+**File size limits**
+<br>Many online renewal document upload portals have small file size limits which require members, Navigators, and eligibility workers to manually reduce the size of images or PDF documents before uploading them. This is a time intensive, burdensome process for those with experience on how to do it and impossible for some to figure out.
 
 ### Phone-based renewals 
-- **Long call center wait times.** Call center wait times across the nation are high for help with Medicaid renewals. However, some counties reported experiencing more burden than others. Those living in a high-density urban areas are typically met with longer wait times than those living in rural areas.
--	**Confusing IVR options.** In some states, the option to renew over the phone is not an available option in the state’s interactive voice response (IVR) menu. In some states, language options that are available in the are not actually hooked up to a representative who speaks that language. 
--	**Language access.** Many states use Language Line for translations when bilingual agents are not available. However, this results in additional wait time for members with limited English profiency. Through the use of an interpreter as in Language Line, context is missed and key details get lost in translation.
+**Long call center wait times**
+<br>Call center wait times across the nation are high for help with Medicaid renewals. However, some counties reported experiencing more burden than others. Those living in a high-density urban areas are typically met with longer wait times than those living in rural areas.
+
+**Confusing IVR options** 
+<br>In some states, the option to renew over the phone is not an available option in the state’s interactive voice response (IVR) menu. In some states, language options that are available in the are not actually hooked up to a representative who speaks that language. 
+
+**Language access**
+<br>Many states use Language Line for translations when bilingual agents are not available. However, this results in additional wait time for members with limited English profiency. Through the use of an interpreter as in Language Line, context is missed and key details get lost in translation.
 
 ## Plays
-- :chart_with_upwards_trend: **Ask for data.** Many states track a data on renewal form return rates. This is the percentage of people who were sent a renewal form that successfully returned it. If this number is low, chances are that people are struggling to turn in the forms. For online forms, ask for drop off rates across the form, password reset attempts, identity verification success rates, and duplicate accounts created. For over-the-phone renewals, ask for average wait times, average call times, and issue resolution rates.
-- :family: **Talk to Navigators** who provide 1:1 support to members of their community. Navigators will know where and how often people are getting stuck completing their renewal form, and the top questions people have about the form.
-- :clipboard: **Usability test the form with members of the public.** Focus on people who face the greatest barriers to understanding the renewal form and completing it, including those who are new to the U.S., people with limited English proficiency, people with disabilities, and people with limited technology experience. 
-- :pencil2: **Co-design improvements to the form with end-users,** including members of the public, Navigators, and eligibility workers. Establish a Member Advisory Council to provide ongoing feedback on proposed changes to the form. Include members in the iterative design process; ask for feedback and ideas early and often.
-- :bulb: **Explore options to drastically reduce the burden of renewing.** For example, including a cover page on the paper form which highlights specific questions on the form in need of attention or providing an options for renewers to return a single signature page if the information on their pre-filled form is still accurate. For renewing online, explore options to upload or renew online without requiring members to create an account or login (e.g. through providing other unique identifiers).
+:chart_with_upwards_trend: **Ask for data** 
+<br>Many states track data on renewal form return rates. This is the percentage of people who were sent a renewal form that successfully returned it. If this number is low, chances are that people are struggling to turn in the forms. For online forms, ask for drop off rates across the form, password reset attempts, identity verification success rates, and duplicate accounts created. For over-the-phone renewals, ask for average wait times, average call times, and issue resolution rates.
+
+:family: **Talk to Navigators**
+<br>Navigators provide 1:1 support to members of their community who need help completing their renewal form. They know *where* and *how often* people are getting stuck completing their renewal form, and the top questions people have about the form.
+
+:clipboard: **Usability test the form with members of the public**
+<br>Focus on people who face the greatest barriers to understanding the renewal form and completing it, including those who are new to the U.S., people with limited English proficiency, people with disabilities, and people with limited technology experience. 
+
+:pencil2: **Co-design improvements to the form** 
+<br>Co-design improvements to the form with end-users, including members of the public, Navigators, and eligibility workers. Establish a Member Advisory Council to provide ongoing feedback on proposed changes to the form. Include members in the iterative design process; ask for feedback and ideas early and often.
+
+:bulb: **Explore options to drastically reduce the burden of renewing**
+<br>For example, including a cover page on the paper form which highlights specific questions on the form in need of attention or providing an options for renewers to return a single signature page if the information on their pre-filled form is still accurate. For renewing online, explore options to upload or renew online without requiring members to create an account or login (e.g. through providing other unique identifiers).
