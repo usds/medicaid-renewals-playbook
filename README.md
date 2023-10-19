@@ -20,7 +20,8 @@ Please contribute to this repository with your questions or additions. To do so,
 
 ### Table of contents
 
-- [Framing, Plays, and Resources](./plays)
+- [Framing, Plays, and Resources](./plays): How to approach the work, engage with state partners, and operate in an impactful way
+- [Logistics](./logistics): The details; who should be on the team, what the schedule should look like, which meetings to run, and how to run them
 - Common Opportunities:
-  - [Common Ex Parte Opportunities](./ex-parte-renewals)
-  - [Common Manual Renewal Opportunities](./manual-renewals)
+  - [Common Ex Parte Opportunities](./ex-parte-renewals): Opportunities we see _most often_ in the ex parte space
+  - [Common Manual Renewal Opportunities](./manual-renewals): Opportunities we see _most often_ in the manual renewal space
