@@ -81,11 +81,11 @@ Guides
 
 Templates
  * [Project Charter](./resources/example-project-charter.docx): An example charter used to establish the goals, dates, and activities of the engagement between the civic tech organization and the state health and human services agency.
- * [On-Site Schedule](./schedule.md): An example schedule for the week of the on-site engagement. Work typically begins virtually 3-4 weeks prior and 3-4 weeks following, but the on-site week is typically the most impactful and intense period of work.
+ * [On-Site Schedule](./logistics/schedule.md): An example schedule for the week of the on-site engagement. Work typically begins virtually 3-4 weeks prior and 3-4 weeks following, but the on-site week is typically the most impactful and intense period of work.
 
 Workshops
-  * [Kickoff Meeting](./workshops-and-meetings/kickoff.md): Sample agenda and materials for the project kickoff, where state staff and the full team align on goals, norms, and the work moving forward.
-  * [Hypothesis Generation Workshop](./workshops-and-meetings/hypothesis-generation-workshop.md): Sample agenda and materials for a workshop focused on generating hypotheses on where the team could have the biggest impact.
+  * [Kickoff Meeting](./logistics/workshops-and-meetings/kickoff.md): Sample agenda and materials for the project kickoff, where state staff and the full team align on goals, norms, and the work moving forward.
+  * [Hypothesis Generation Workshop](./logistics/workshops-and-meetings/hypothesis-generation-workshop.md): Sample agenda and materials for a workshop focused on generating hypotheses on where the team could have the biggest impact.
 
 ---
 
@@ -121,9 +121,9 @@ Templates
   * [Renewal Journey Map](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1697052445632/f3f79359e57b77d23f41d325a131b736c5740263?sender=u46dc9256beb1576a38081536): A method for mapping a member's renewal journey from start to finish. This can be used throughout the investigation and research process for determining challenges and opportunities for improvement.
 
 Workshops
-  * [Navigator Workshop](./workshops-and-meetings/navigator-workshop.md): Typically, at the beginning of the week, we hold a convening of Navigators focused on generating potential solutions.
-  * [Ex Parte Workshop #1](./workshops-and-meetings/ex-parte-workshop.md): The first ex parte workshop, typically held in the week of the on-site, is focused on identifying opportunities for improvement in the ex parte renewal flow.
-  * [Manual Renewal Workshop #1](./workshops-and-meetings/manual-renewal-workshop.md): The first manual renewal workshop, typically held in the week of the on-site, is focused on bringing the experiences and solutions from research with Navigators to the state so that solutioning can begin.
+  * [Navigator Workshop](./logistics/workshops-and-meetings/navigator-workshop.md): Typically, at the beginning of the week, we hold a convening of Navigators focused on generating potential solutions.
+  * [Ex Parte Workshop #1](./logistics/workshops-and-meetings/ex-parte-workshop.md): The first ex parte workshop, typically held in the week of the on-site, is focused on identifying opportunities for improvement in the ex parte renewal flow.
+  * [Manual Renewal Workshop #1](./logistics/workshops-and-meetings/manual-renewal-workshop.md): The first manual renewal workshop, typically held in the week of the on-site, is focused on bringing the experiences and solutions from research with Navigators to the state so that solutioning can begin.
 
 ---
 
@@ -151,8 +151,8 @@ Whenever possible, scope should be reduced towards the minimum viable solution. 
 
 #### Resources
 Workshops
-  * [Ex Parte Workshop #2](./workshops-and-meetings/ex-parte-workshop.md): The second ex parte workshop is focused around implementation details and aligning on potential solutions.
-  * [Manual Renewal Workshop #2](./workshops-and-meetings/manual-renewal-workshop.md): The second manual renewal workshop is focused on determining implementation plans and assigning owners to action items.
+  * [Ex Parte Workshop #2](./logistics/workshops-and-meetings/ex-parte-workshop.md): The second ex parte workshop is focused around implementation details and aligning on potential solutions.
+  * [Manual Renewal Workshop #2](./logistics/workshops-and-meetings/manual-renewal-workshop.md): The second manual renewal workshop is focused on determining implementation plans and assigning owners to action items.
 
 ---
 
@@ -187,5 +187,5 @@ Guides
 * [Benefits Data Trust: Prioritization Tool](https://bdtrust.org/Prioritization_Tool.docx): Determine what policy and process solutions are feasible by analyzing the risk, value, cost and effort of implementation and establish action steps for implementing proposed policy & process changes.
 
 Workshops
-  * [Closing Meeting](./workshops-and-meetings/closing.md): This meeting is typically held at the end of the on-site week. It is an opportunity to present recommendations to the state senior leadership, and re-affirm the agreed upon actions.
-  * [Prioritization Session](./workshops-and-meetings/prioritization-session.md): This session can help the state determine which recommendations require immediate action versus long-term changes.
+  * [Closing Meeting](./logistics/workshops-and-meetings/closing.md): This meeting is typically held at the end of the on-site week. It is an opportunity to present recommendations to the state senior leadership, and re-affirm the agreed upon actions.
+  * [Prioritization Session](./logistics/workshops-and-meetings/prioritization-session.md): This session can help the state determine which recommendations require immediate action versus long-term changes.
