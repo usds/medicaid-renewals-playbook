@@ -11,6 +11,7 @@ The value civic technologists bring to states on ex parte renewals is the abilit
 - [Policy Rules](./policy-rules.md)
 - [Caretaker Relative Issues](./caretaker-relative.md)
 - [Waiver Implementation Issues](./waiver-implementations.md)
+- [Consent Issues](./consent.md)
 - [Worst Case Scenario Issues](./worst-case-scenario.md)
 
 
