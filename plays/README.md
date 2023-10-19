@@ -20,7 +20,7 @@ Plays and resources:
 <div align="center">
   <img
     width="300px"
-    src=".../images/framing.svg"
+    src="../images/framing.svg"
     alt="A person sitting on the frame of a picture. The picture depicts a mountain." />
 </div>
 
