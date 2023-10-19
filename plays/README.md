@@ -20,7 +20,7 @@ Plays and resources:
 <div align="center">
   <img
     width="300px"
-    src="../images/framing.svg"
+    src=".../images/framing.svg"
     alt="A person sitting on the frame of a picture. The picture depicts a mountain." />
 </div>
 
@@ -61,15 +61,18 @@ In addition, all members of the team -- including vendors -- must understand the
 
 #### Resources
 Guides
+  * [Benefits Data Trust: Medicaid Churn Overview & FAQ](https://bdtrust.org/Prioritization_Tool.docx): The background, causes, impacts, and mitigations of Medicaid churn.
+  * [Benefits Data Trust: Goal Setting](https://bdtrust.org/Goal_Setting.docx): Establish SMART (Specific, Measurable, Achievable, Relevant, and Time-bound) goals for addressing Medicaid churn.
+  * [Benefits Data Trust: Stakeholder Engagement](https://bdtrust.org/Stakeholder_Engagement.docx): Identify who needs to be part of the process based on knowledge/expertise & capacity. Identify opportunities for engagement & establish and implement a strategy for engagement.
   * [Medicaid 101](../resources/medicaid-101.pdf): A _brief and informal_ overview of the Medicaid program. This presentation **should not** be taken as legal authority or advice, but used as a quick introduction to the program.
 
 Templates
  * [Project Charter](../resources/example-project-charter.docx): An example charter used to establish the goals, dates, and activities of the engagement between the civic tech organization and the state health and human services agency.
- * [On-Site Schedule](../schedule.md): An example schedule for the week of the on-site engagement. Work typically begins virtually 3-4 weeks prior and 3-4 weeks following, but the on-site week is typically the most impactful and intense period of work.
+ * [On-Site Schedule](../logistics/schedule.md): An example schedule for the week of the on-site engagement. Work typically begins virtually 3-4 weeks prior and 3-4 weeks following, but the on-site week is typically the most impactful and intense period of work.
 
 Workshops
-  * [Kickoff Meeting](../workshops-and-meetings/kickoff.md): Sample agenda and materials for the project kickoff, where state staff and the full team align on goals, norms, and the work moving forward.
-  * [Hypothesis Generation Workshop](../workshops-and-meetings/hypothesis-generation-workshop.md): Sample agenda and materials for a workshop focused on generating hypotheses on where the team could have the biggest impact.
+  * [Kickoff Meeting](../logistics/workshops-and-meetings/kickoff.md): Sample agenda and materials for the project kickoff, where state staff and the full team align on goals, norms, and the work moving forward.
+  * [Hypothesis Generation Workshop](../logistics/workshops-and-meetings/hypothesis-generation-workshop.md): Sample agenda and materials for a workshop focused on generating hypotheses on where the team could have the biggest impact.
 
 ---
 
@@ -105,9 +108,9 @@ Templates
   * [Renewal Journey Map](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1697052445632/f3f79359e57b77d23f41d325a131b736c5740263?sender=u46dc9256beb1576a38081536): A method for mapping a member's renewal journey from start to finish. This can be used throughout the investigation and research process for determining challenges and opportunities for improvement.
 
 Workshops
-  * [Navigator Workshop](../workshops-and-meetings/navigator-workshop.md): Typically, at the beginning of the week, we hold a convening of Navigators focused on generating potential solutions.
-  * [Ex Parte Workshop #1](../workshops-and-meetings/ex-parte-workshop.md): The first ex parte workshop, typically held in the week of the on-site, is focused on identifying opportunities for improvement in the ex parte renewal flow.
-  * [Manual Renewal Workshop #1](../workshops-and-meetings/manual-renewal-workshop.md): The first manual renewal workshop, typically held in the week of the on-site, is focused on bringing the experiences and solutions from research with Navigators to the state so that solutioning can begin.
+  * [Navigator Workshop](../logistics/workshops-and-meetings/navigator-workshop.md): Typically, at the beginning of the week, we hold a convening of Navigators focused on generating potential solutions.
+  * [Ex Parte Workshop #1](../logistics/workshops-and-meetings/ex-parte-workshop.md): The first ex parte workshop, typically held in the week of the on-site, is focused on identifying opportunities for improvement in the ex parte renewal flow.
+  * [Manual Renewal Workshop #1](../logistics/workshops-and-meetings/manual-renewal-workshop.md): The first manual renewal workshop, typically held in the week of the on-site, is focused on bringing the experiences and solutions from research with Navigators to the state so that solutioning can begin.
 
 ---
 
@@ -128,15 +131,15 @@ Once problems have been identified, work with the broader cross-functional team 
 Whenever possible, scope should be reduced towards the minimum viable solution. When implementation timelines are given, look for reasonable opportunities to reduce estimates and remove unnecessary requirements. Ask for clarity on the stages of implementation, and which are projected to take the most amount of time. Can they be reduced? For example, if a change is completely back-end, eliminate any front-end testing. If a change will only affect mobile users, eliminate desktop testing. If a website is not functional on mobile, change only the pieces to make it functional (as opposed to friendly). Keep asking “why” until the timeline is definitively as small as possible.
 
 * **Use the lived experiences of experts.** If the team was able to meet with Navigators and case workers before a solutioning session with the state, bring their ideas and solutions to the table. Treat these as expert opinions, and champion them whenever possible.
-* **Work collaboratively and let states be the heroes.** When solutions are being discussed, the decision makers and implementors should be in the room, driving the process. Give equal weight to everyone's voice, and specifically call out those with on-the-ground knowledge. Empower state policy staff to reconsider assumptions and ask questions about implementation. Pass around artifacts (like a copy of the renewal packet, if available) and let them make changes themselves.
+* **Work collaboratively and let states be the heroes.** When solutions are being discussed, the decision makers and implementers should be in the room, driving the process. Give equal weight to everyone's voice, and specifically call out those with on-the-ground knowledge. Empower state policy staff to reconsider assumptions and ask questions about implementation. Pass around artifacts (like a copy of the renewal packet, if available) and let them make changes themselves.
 * **Reference Medicaid rules and regulations.** Any solution MUST be palatable to state policy experts, or it cannot be implemented. Whenever possible, use rules and regulations to create a safe policy space for solutioning. If policy concerns are brought up broadly, read the policy and use it to make a risk calculation. A policy may prohibit something, but in practice that situation may never occur; use lived experiences of Navigators and case workers to make that clear. Ultimately, it is up to the discretion of state Medicaid officials to decide what changes are appropriate and it is the role of civic technologists to empower them with all of the data, evidence, and implementation clarity that they need to make well reasoned decisions.
 * **Keep asking “why”.** If a timeline doesn't make sense, or seems unrealistic, ask for specifics. If the explanation doesn't make sense, ask for more. We don't need to be the experts on the state systems or processes, but we do need to recognize when a solution isn't as efficient (or impactful) as it can be. “Policy” is often cited as a reason something can't be done; ask for the regulation.
 * **Find the minimum viable solution.** Working with the state staff, eliminate parts of the implementation process that are unnecessary. Focus specifically on stages that may are prone to inflation: testing, for example, or administrative processes. Can these stages be reduced? Don't be satisfied until any solution is the smallest viable solution possible. Ask about the emergency release process. Strive to land changes before, rather than just after, any monthly batch run.
 
 #### Resources
 Workshops
-  * [Ex Parte Workshop #2](../workshops-and-meetings/ex-parte-workshop.md): The second ex parte workshop is focused around implementation details and aligning on potential solutions.
-  * [Manual Renewal Workshop #2](../workshops-and-meetings/manual-renewal-workshop.md): The second manual renewal workshop is focused on determining implementation plans and assigning owners to action items.
+  * [Ex Parte Workshop #2](../logistics/workshops-and-meetings/ex-parte-workshop.md): The second ex parte workshop is focused around implementation details and aligning on potential solutions.
+  * [Manual Renewal Workshop #2](../logistics/workshops-and-meetings/manual-renewal-workshop.md): The second manual renewal workshop is focused on determining implementation plans and assigning owners to action items.
 
 ---
 
@@ -167,6 +170,9 @@ Once a set of solutions is prioritized, the state and vendor work together to sc
 Templates
  * [Example Recommendations Document](../resources/example-recommendations-document.docx): At the end of the on-site week, all recommendations agreed upon by _both the state and the civic technology team_ are documented in this recommendations report, which is then delivered to the state Medicaid leadership.
 
+Guides
+* [Benefits Data Trust: Prioritization Tool](https://bdtrust.org/Prioritization_Tool.docx): Determine what policy and process solutions are feasible by analyzing the risk, value, cost and effort of implementation and establish action steps for implementing proposed policy & process changes.
+
 Workshops
-  * [Closing Meeting](../workshops-and-meetings/closing.md): This meeting is typically held at the end of the on-site week. It is an opportunity to present recommendations to the state senior leadership, and re-affirm the agreed upon actions.
-  * [Prioritization Session](../workshops-and-meetings/prioritization-session.md): This session can help the state determine which recommendations require immediate action versus long-term changes.
+  * [Closing Meeting](../logistics/workshops-and-meetings/closing.md): This meeting is typically held at the end of the on-site week. It is an opportunity to present recommendations to the state senior leadership, and re-affirm the agreed upon actions.
+  * [Prioritization Session](../logistics/workshops-and-meetings/prioritization-session.md): This session can help the state determine which recommendations require immediate action versus long-term changes.
