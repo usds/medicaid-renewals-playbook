@@ -20,7 +20,7 @@ The state should be represented throughout the workshop, and should be an active
 
 ## Run of Show
 
-_See [the facilitator guide](../resources/navigator-workshop-facilitation-guide.docx) for a detailed schedule!_
+_See [the facilitator guide](../../resources/navigator-workshop-facilitation-guide.docx) for a detailed schedule!_
 
 ### Prior to the Workshop
 
