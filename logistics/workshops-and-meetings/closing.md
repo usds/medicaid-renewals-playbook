@@ -6,7 +6,7 @@
 
 This meeting is where findings are presented to the Medicaid director by both the state staff and the civic technology team. It is _extremely important_ that there are no surprises in this meeting. Everything presented should have already been agreed upon by all parties present. Because this meeting includes senior leadership, it's best to schedule it as early as possible.
 
-If the team has produced a [recommendations document](../../resources/example-recommendations-document.docx), it can be useful to present it at this time.
+If the team has produced a recommendations document ([docx](../../resources/example-recommendations-document.docx), [pdf](../../resources/example-recommendations-document.pdf)), it can be useful to present it at this time.
 
 This meeting is typically one hour.
 
