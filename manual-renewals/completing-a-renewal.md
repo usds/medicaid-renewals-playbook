@@ -56,3 +56,17 @@ Members who are not ex parte renewed for Medicaid must complete and turn in an a
 
 :bulb: **Explore options to drastically reduce the burden of renewing**
 <br>For example, including a cover page on the paper form which highlights specific questions on the form in need of attention or providing an options for renewers to return a single signature page if the information on their pre-filled form is still accurate. For renewing online, explore options to upload or renew online without requiring members to create an account or login (e.g. through providing other unique identifiers).
+<br><br>
+  Example: <a href="https://www.google.com/search?q=colorado+medicaid+renewal+packet&rlz=1C5GCEM_enUS1029US1029&oq=&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyCQgCECMYJxiKBTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQLhiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI5MTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8" tab="new">Colorado's Renewal Form Signature Page</a>
+<br>
+  <img
+    width="500px"
+    src="../images/Colorado-Single-Page-Signature-Example.png"
+    alt="Colorado's Signature Page, on Page 4 of their renewal packet" /></tr>
+ 
+  <br><Br>Example: Cover Page Exploration<br>
+
+  <img
+    width="400px"
+    src="../images/Single-Page-Attestation-Example.png"
+    alt="Cover Page Exploration" />
