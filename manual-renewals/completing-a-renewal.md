@@ -62,7 +62,7 @@ Members who are not ex parte renewed for Medicaid must complete and turn in an a
   <img
     width="500px"
     src="../images/Colorado-Single-Page-Signature-Example.png"
-    alt="Colorado's Signature Page, on Page 4 of their renewal packet" /></tr>
+    alt="Colorado's Signature Page, on Page 4 of their renewal packet" />
  
   <br><Br>Example: Cover Page Exploration<br>
 
