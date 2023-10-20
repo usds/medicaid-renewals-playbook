@@ -37,7 +37,7 @@ Guides
   * [Medicaid 101](../resources/medicaid-101.pdf): A _brief and informal_ overview of the Medicaid program. This presentation **should not** be taken as legal authority or advice, but used as a quick introduction to the program.
 
 Templates
- * [Project Charter](../resources/example-project-charter.docx): An example charter used to establish the goals, dates, and activities of the engagement between the civic tech organization and the state health and human services agency.
+ * Project Charter ([docx](../resources/example-project-charter.docx), [pdf](../resources/example-project-charter.pdf)): An example charter used to establish the goals, dates, and activities of the engagement between the civic tech organization and the state health and human services agency.
  * [On-Site Schedule](../logistics/schedule.md): An example schedule for the week of the on-site engagement. Work typically begins virtually 3-4 weeks prior and 3-4 weeks following, but the on-site week is typically the most impactful and intense period of work.
 
 Workshops
@@ -70,10 +70,10 @@ When determining the problems, it's important to keep the focus on the “end-to
 
 ### Resources
 Guides
-  * [Navigator Research Guide](../resources/navigator-research-guide.docx): Working with [Navigators](https://www.healthcare.gov/glossary/navigator/) is crucial for the success of renewals work. This guide provides a set of resources for explaining, justifying, preparing, and performing work with Navigators. It includes background information on Navigator organizations, example research plans, and email templates for correspondence.
+  * Navigator Research Guide ([docx](../resources/navigator-research-guide.docx), [pdf](../resources/navigator-research-guide.pdf)): Working with [Navigators](https://www.healthcare.gov/glossary/navigator/) is crucial for the success of renewals work. This guide provides a set of resources for explaining, justifying, preparing, and performing work with Navigators. It includes background information on Navigator organizations, example research plans, and email templates for correspondence.
 
 Templates
-  * [Data Request Worksheet](../resources/data-request-worksheet.xlsx): A worksheet that can be used by the state to begin measuring their end-to-end renewal funnel. Some states will not be able to fill out all fields in the template; that's okay! This template can and should be adapted for the particular state.
+  * Data Request Worksheet ([xlsx](../resources/data-request-worksheet.xlsx), [pdf](../resources/data-request-worksheet.pdf)): A worksheet that can be used by the state to begin measuring their end-to-end renewal funnel. Some states will not be able to fill out all fields in the template; that's okay! This template can and should be adapted for the particular state.
   * [State Renewals Funnel](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1697032143290/0ae29a54efb9ed41a03dbba35e11e7eba60cfa1e?sender=u46dc9256beb1576a38081536): A method for visualizing the end-to-end funnel of Medicaid renewals, and determining which drop-off points are the most critical to focus on.
   * [Renewal Journey Map](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1697052445632/f3f79359e57b77d23f41d325a131b736c5740263?sender=u46dc9256beb1576a38081536): A method for mapping a member's renewal journey from start to finish. This can be used throughout the investigation and research process for determining challenges and opportunities for improvement.
 
@@ -138,7 +138,7 @@ Once a set of solutions is prioritized, the state and vendor work together to sc
 
 ### Resources
 Templates
- * [Example Recommendations Document](../resources/example-recommendations-document.docx): At the end of the on-site week, all recommendations agreed upon by _both the state and the civic technology team_ are documented in this recommendations report, which is then delivered to the state Medicaid leadership.
+ * Example Recommendations Document([docx](../resources/example-recommendations-document.docx), [pdf](../resources/example-recommendations-document.pdf)): At the end of the on-site week, all recommendations agreed upon by _both the state and the civic technology team_ are documented in this recommendations report, which is then delivered to the state Medicaid leadership.
 
 Guides
 * [Benefits Data Trust: Prioritization Tool](https://bdtrust.org/Prioritization_Tool.docx): Determine what policy and process solutions are feasible by analyzing the risk, value, cost and effort of implementation and establish action steps for implementing proposed policy & process changes.
