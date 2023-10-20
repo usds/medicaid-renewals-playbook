@@ -43,7 +43,7 @@ Members who are not ex parte renewed for Medicaid must complete and turn in an a
 
 ## Plays
 :chart_with_upwards_trend: **Ask for data** 
-<br>Many states track data on renewal form return rates. This is the percentage of people who were sent a renewal form that successfully returned it. If this number is low, chances are that people are struggling to turn in the forms. For online forms, ask for drop off rates across the form, password reset attempts, identity verification success rates, and duplicate accounts created. For over-the-phone renewals, ask for average wait times, average call times, and issue resolution rates.
+<br>Many states track data on renewal form *return rates.* This is the percentage of people who were sent a renewal form that successfully returned it. If this number is low, chances are that people are struggling to turn in the forms. For online forms, ask for drop off rates across the form, password reset attempts, identity verification success rates, and duplicate accounts created. For over-the-phone renewals, ask for average wait times, average call times, and issue resolution rates.
 
 :family: **Talk to Navigators**
 <br>Navigators provide 1:1 support to members of their community who need help completing their renewal form. They know *where* and *how often* people are getting stuck completing their renewal form, and the top questions people have about the form.
