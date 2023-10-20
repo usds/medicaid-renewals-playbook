@@ -1,4 +1,4 @@
-# Social Security Number Issues
+# Social Security Number challenges
 
 ## Description
 
@@ -16,7 +16,7 @@ Despite these considerations, many state eligibility systems exclude **all** ind
 
 ## What this looks like
 
-The following failure reasons may be symptoms of SSN issues:
+The following failure reasons may be symptoms of SSN challenges:
   - "No SSN"
   - "Missing SSN"
   - "Cannot query income data sources"

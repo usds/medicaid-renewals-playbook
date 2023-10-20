@@ -1,4 +1,4 @@
-# Unnecessary Reverifications
+# Unnecessary reverifications
 
 ## Description
 

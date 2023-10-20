@@ -1,4 +1,4 @@
-# Income Data Hierarchy
+# Income data hierarchy
 
 ## Description
 

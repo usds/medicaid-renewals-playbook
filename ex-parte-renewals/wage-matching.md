@@ -1,4 +1,4 @@
-# Wage Matching
+# Wage matching
 
 ## Description
 

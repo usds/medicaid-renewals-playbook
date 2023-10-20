@@ -1,4 +1,4 @@
-# Individual VS Household Determinations
+# Individual/household determinations
 
 ## Description
 

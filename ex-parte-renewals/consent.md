@@ -1,4 +1,4 @@
-# Consent Requirements
+# Consent requirements
 
 ## Description
 

@@ -1,4 +1,4 @@
-#  Worst Case Scenario Issues
+#  Worst case scenario challenges
 
 ## Description
 
