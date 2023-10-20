@@ -42,19 +42,19 @@ Members who are not ex parte renewed for Medicaid must complete and turn in an a
 <br>Many states use Language Line for translations when bilingual agents are not available. However, this results in additional wait time for members with limited English profiency. Through the use of an interpreter as in Language Line, context is missed and key details get lost in translation.
 
 ## Plays
-:chart_with_upwards_trend: **Ask for data** 
+📈 **Ask for data** 
 <br>Many states track data on renewal form *return rates.* This is the percentage of people who were sent a renewal form that successfully returned it. If this number is low, chances are that people are struggling to turn in the forms. For online forms, ask for drop off rates across the form, password reset attempts, identity verification success rates, and duplicate accounts created. For over-the-phone renewals, ask for average wait times, average call times, and issue resolution rates.
 
-:family: **Talk to Navigators**
+🗣 **Talk to Navigators**
 <br>Navigators provide 1:1 support to members of their community who need help completing their renewal form. They know *where* and *how often* people are getting stuck completing their renewal form, and the top questions people have about the form.
 
-:clipboard: **Usability test the form**
+📋 **Usability test the form**
 <br>Usability test the form with members of the public. Focus on people who face the greatest barriers to understanding the renewal form and completing it, including those who are new to the U.S., people with limited English proficiency, people with disabilities, and people with limited technology experience. 
 
-:pencil2: **Co-design improvements** 
+✏️  **Co-design improvements** 
 <br>Co-design improvements to the form with end-users, including members of the public, Navigators, and eligibility workers. Establish a Member Advisory Council to provide ongoing feedback on proposed changes to the form. Include members in the iterative design process; ask for feedback and ideas early and often.
 
-:bulb: **Explore options to drastically reduce the burden of renewing**
+💡 **Explore options to drastically reduce the burden of renewing**
 <br>For example, including a cover page on the paper form which highlights specific questions on the form in need of attention or providing an options for renewers to return a single signature page if the information on their pre-filled form is still accurate. For renewing online, explore options to upload or renew online without requiring members to create an account or login (e.g. through providing other unique identifiers).
 <br><br>
   Example: <a href="https://www.google.com/search?q=colorado+medicaid+renewal+packet&rlz=1C5GCEM_enUS1029US1029&oq=&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyCQgCECMYJxiKBTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQLhiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI5MTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8" tab="new">Colorado's Renewal Form Signature Page</a>
