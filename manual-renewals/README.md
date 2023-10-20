@@ -1,4 +1,4 @@
-# Common Manual Renewal Issues
+# Common Manual Renewal Challenges
 
 While there is a large focus at the moment on ex parte renewals and the (undisputed) benefit that they can bring to states, a majority of the Medicaid population will still have to complete a manual renewal. This population almost always includes the most vulnerable groups: people with income that cannot be verified electronically, non-citizens, newborns, etc. A manual renewal is often a complex and multi-step process, and one that is very rarely measured adequately. Implemented inefficiently or in a burdensome way, the manual renewal process can result in vast losses of coverage as clients fail to navigate through the myriad of steps towards renewing their coverage. 
 
