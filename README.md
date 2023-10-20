@@ -25,5 +25,5 @@ How to run a state engagement:
   - [Logistics](./logistics): The details; who should be on the team, what the schedule should look like, which meetings to run, and how to run them
 
 Common challenges:
-  - [Common ex parte challenges](./ex-parte-renewals): Challenges we see _most often_ in the ex parte space
-  - [Common manual renewal challenges](./manual-renewals): Challenges we see _most often_ in the manual renewal space
+  - [Ex parte](./ex-parte-renewals): Challenges we see _most often_ in the ex parte space
+  - [Manual renewals](./manual-renewals): Challenges we see _most often_ in the manual renewal space
