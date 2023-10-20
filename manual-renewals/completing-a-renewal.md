@@ -48,10 +48,10 @@ Members who are not ex parte renewed for Medicaid must complete and turn in an a
 :family: **Talk to Navigators**
 <br>Navigators provide 1:1 support to members of their community who need help completing their renewal form. They know *where* and *how often* people are getting stuck completing their renewal form, and the top questions people have about the form.
 
-:clipboard: **Usability test the form with members of the public**
-<br>Focus on people who face the greatest barriers to understanding the renewal form and completing it, including those who are new to the U.S., people with limited English proficiency, people with disabilities, and people with limited technology experience. 
+:clipboard: **Usability test the form**
+<br>Usability test the form with members of the public. Focus on people who face the greatest barriers to understanding the renewal form and completing it, including those who are new to the U.S., people with limited English proficiency, people with disabilities, and people with limited technology experience. 
 
-:pencil2: **Co-design improvements to the form** 
+:pencil2: **Co-design improvements** 
 <br>Co-design improvements to the form with end-users, including members of the public, Navigators, and eligibility workers. Establish a Member Advisory Council to provide ongoing feedback on proposed changes to the form. Include members in the iterative design process; ask for feedback and ideas early and often.
 
 :bulb: **Explore options to drastically reduce the burden of renewing**
