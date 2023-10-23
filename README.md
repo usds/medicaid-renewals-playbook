@@ -17,16 +17,16 @@ This playbook was created by the U.S. Digital Service as a rapid-response guide 
 
 Please contribute to this repository with your questions or additions. To do so, please check out [our contribution guide](https://github.com/usds/medicaid-renewals-playbook/blob/main/CONTRIBUTING.md)!
 
-### Table of contents
+## Table of contents
 
-How to run a state engagement:
+### How to run a state engagement:
   - [Framing](./plays/framing.md): Some advice on how to frame the work both internally and externally
   - [Plays and Resources](./plays/plays.md): How to approach the work, engage with state partners, and operate in an impactful way
   - [Logistics](./logistics): The details; who should be on the team, what the schedule should look like, which meetings to run, and how to run them
 
-Common challenges:
+### Common challenges:
   - [Ex parte](./ex-parte-renewals): Challenges we see _most often_ in the ex parte space
   - [Manual renewals](./manual-renewals): Challenges we see _most often_ in the manual renewal space
-  - [Outreach and messaging](/manual-renewals/outreach-and-messaging.md): Challenges we see _most often_ around outreach and messaging
-  - [Completing a renewal](/manual-renewals/completing-a-renewal.md): Challenges we see _most often_ around completing a renewal
-  - [Getting help and troubleshooting](/manual-renewals/getting-help.md): Challenges we see _most often_ around getting help and troubleshooting
+      - [Outreach and messaging](/manual-renewals/outreach-and-messaging.md): Challenges we see _most often_ around outreach and messaging
+      - [Completing a renewal](/manual-renewals/completing-a-renewal.md): Challenges we see _most often_ around completing a renewal
+      - [Getting help and troubleshooting](/manual-renewals/getting-help.md): Challenges we see _most often_ around getting help and troubleshooting
