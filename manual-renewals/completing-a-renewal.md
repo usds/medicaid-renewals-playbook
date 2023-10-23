@@ -73,7 +73,7 @@ Example: [Colorado's Renewal Form Signature Page](https://hcpf.colorado.gov/site
     src="../images/Colorado-Single-Page-Signature-Example.png"
     alt="Colorado's Signature Page, on Page 4 of their renewal packet" />
 
-  <p><em>Full size image available [here](../images/Colorado-Single-Page-Signature-Example-full-size.png)</em></p>
+  <p><em>Full size image available <a href="../images/Colorado-Single-Page-Signature-Example-full-size.png">here</a>.</em></p>
 </div>
  
 Example: Cover Page Exploration
@@ -84,5 +84,5 @@ Example: Cover Page Exploration
     src="../images/Single-Page-Attestation-Example.png"
     alt="Cover Page Exploration" />
 
-  <p><em>Full size image available [here](../images/Single-Page-Attestation-Example-full-size.png)</em></p>
+  <p><em>Full size image available <a href="../images/Single-Page-Attestation-Example-full-size.png">here</a>.</em></p>
 </div>
