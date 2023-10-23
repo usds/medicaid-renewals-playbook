@@ -69,7 +69,7 @@ Example: [Colorado's Renewal Form Signature Page](https://hcpf.colorado.gov/site
 
 <div align="center">
   <img
-    width="1000px"
+    width="750px"
     src="../images/Colorado-Single-Page-Signature-Example.png"
     alt="Colorado's Signature Page, on Page 4 of their renewal packet" />
 
@@ -80,7 +80,7 @@ Example: Cover Page Exploration
 
 <div align="center">
   <img
-    width="1000px"
+    width="750px"
     src="../images/Single-Page-Attestation-Example.png"
     alt="Cover Page Exploration" />
 
