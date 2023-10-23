@@ -8,16 +8,14 @@ Medicaid determinations should be made at the _individual_ level, meaning that i
   <img
     width="500px"
     src="../images/household-eligibility.png"
-    alt="A simplified diagram showing two possibilities for a four-member houshold renewal. In one branch, all members of the household can be renewed, so the houshold is renewed. In another branch, three members can be renewed but one member cannot, so the household is not renewed.">
-  </img>
+    alt="A simplified diagram showing two possibilities for a four-member houshold renewal. In one branch, all members of the household can be renewed, so the houshold is renewed. In another branch, three members can be renewed but one member cannot, so the household is not renewed." />
 
   _Household-level eligibility; this logic is **incorrect**._
   
   <img
     width="500px"
     src="../images/individual-eligibility.png"
-    alt="A simplified diagram showing a renewal performed for a four-person household on the individual level. Three members of the household are renewed. One member cannot be renewed.">
-  </img>
+    alt="A simplified diagram showing a renewal performed for a four-person household on the individual level. Three members of the household are renewed. One member cannot be renewed." />
 
   _Individual eligibility; this logic is **correct**._
 </div>
