@@ -15,7 +15,7 @@ This playbook was created by the U.S. Digital Service as a rapid-response guide 
 
 **_This playbook is **NOT** a source of authoritative, legal, or regulatory guidance and has not been officially endorsed by the Center for Medicaid and CHIP Services (CMCS). It is advisory only, and should be adapted appropriately for each state and scenario. Ultimately, it is the responsibility of state Medicaid officials to ensure that implementation of any project is compliant with federal Medicaid statute and regulations. Refer to CMCS's [website](https://www.medicaid.gov/resources-for-states/coronavirus-disease-2019-covid-19/unwinding-and-returning-regular-operations-after-covid-19/index.html) for up to date official guidance._**
 
-Please contribute to this repository with your questions or additions. To do so, check out [our contributing guide](./CONTRIBUTING.md)!
+Please contribute to this repository with your questions or additions. To do so, please check out [our contribution guide](https://github.com/usds/medicaid-renewals-playbook/blob/main/CONTRIBUTING.md)!
 
 ### Table of contents
 
