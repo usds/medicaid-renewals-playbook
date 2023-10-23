@@ -27,5 +27,6 @@ How to run a state engagement:
 Common challenges:
   - [Ex parte](./ex-parte-renewals): Challenges we see _most often_ in the ex parte space
   - [Manual renewals](./manual-renewals): Challenges we see _most often_ in the manual renewal space
+  - [Outreach and messaging](/manual-renewals/outreach-and-messaging.md): Challenges we see _most often_ around outreach and messaging
   - [Completing a renewal](/manual-renewals/completing-a-renewal.md): Challenges we see _most often_ around completing a renewal
   - [Getting help and troubleshooting](/manual-renewals/getting-help.md): Challenges we see _most often_ around getting help and troubleshooting
