@@ -20,8 +20,8 @@ Please contribute to this repository with your questions or additions. To do so,
 ### Table of contents
 
 How to run a state engagement:
-  - [Framing](./plays/framing): Some advice on how to frame the work both internally and externally
-  - [Plays and Resources](./plays/plays): How to approach the work, engage with state partners, and operate in an impactful way
+  - [Framing](./plays/framing.md): Some advice on how to frame the work both internally and externally
+  - [Plays and Resources](./plays/plays.md): How to approach the work, engage with state partners, and operate in an impactful way
   - [Logistics](./logistics): The details; who should be on the team, what the schedule should look like, which meetings to run, and how to run them
 
 Common challenges:
