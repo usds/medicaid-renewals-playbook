@@ -75,6 +75,16 @@ Navigators play a crucial role in helping Medicaid members who cannot complete t
 #### File size limits
 Many online renewal document upload portals have small file size limits which require members, Navigators, and eligibility workers to manually reduce the size of images or PDF documents before uploading them. This is a time intensive, burdensome process for those with experience on how to do it and impossible for some to figure out.
 
+### Plays
+#### Ask for data
+Ask for drop off rates across the form, password reset attempts, identity verification success rates, and duplicate accounts created.
+
+#### Usability test the form
+Directly observe users try to complete their renewal online, from creating an account and logging in through to submitting their form. Focus on people who face the greatest barriers to understanding the renewal form and completing it, including those who are new to the U.S., people with limited English proficiency, people with disabilities, and people with limited technology experience. Note the time it takes to complete each task, where people struggle or have questions, and whether or not each user was able to complete their online renewal successfully.
+
+#### Co-design improvements
+Co-design improvements to the form with end-users, including members of the public, Navigators, and eligibility workers. Establish a Member Advisory Council to provide ongoing feedback on proposed changes to the form. Include members in the iterative design process; ask for feedback and ideas early and often.
+
 ## Phone-based renewals 
 ### Challenges
 #### Long call center wait times
@@ -86,3 +96,6 @@ In some states, the option to renew over the phone is not an available option in
 #### Language access
 Many states use Language Line for translations when bilingual agents are not available. However, this results in additional wait time for members with limited English profiency. Through the use of an interpreter as in Language Line, context is missed and key details get lost in translation.
 
+### Plays
+#### Ask for data
+Ask for average wait times, average call times, and issue resolution rates.
