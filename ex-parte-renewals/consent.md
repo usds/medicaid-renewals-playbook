@@ -19,3 +19,7 @@ Check the Medicaid application of the state. Does it ask for consent? If it does
 ## Potential solutions
 
 Reference federal regulations that indicate that a state _must_ attempt an ex parte renewal _regardless_ of whether or not an individual has given consent. Once policy aligned, determine if the state is using IRS data. If they are, find a solution where consent allows the usage of IRS data, but otherwise has no effect on the renewal. If they are not using IRS data, remove any logic related to consent completely.
+
+## Resources
+
+- [October Guidance from CMS](https://www.medicaid.gov/sites/default/files/2022-10/ex-parte-renewal-102022.pdf) (page 19)
