@@ -44,3 +44,12 @@
   margin-bottom: 5px;
   color: #0a64bd;
 }
+
+.markdown-body table th {
+    background: #103c68;
+    color: #FFF;
+}
+
+.markdown-body table th, .markdown-body table td {
+    padding: 10px 20px;
+}
