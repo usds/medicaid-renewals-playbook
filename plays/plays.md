@@ -68,7 +68,7 @@ When determining the problems, it's important to keep the focus on the “end-to
     src="../images/funnel.png"
     alt="A Sankey diagram showing the flow of Medicaid renewals. The first benchmark is labeled 'Medicaid population: 100,000. This splits into two benchmarks: 'Manual renewal: 60,000' and 'Ex-parte: 40,000'. Manual renewal splits into two benchmarks: 'Renewal NOT submitted on time: 20,000' and 'Renewal submitted on time: 40,000'. 'Renewal NOT submitted on time' flows entirely into 'Terminated: 37,000'. 'Renewal submitted on time' splits into three paths: one that leads to 'Terminated', one that leads to 'Receive request for info: 10,000', and one that leads to 'Renewed: 73,000'. 'Receive request for info' splits into two paths: 'NOT submitted on time: 5,000' and 'Submitted on time: 5,000'. 'NOT submitted on time' leads entirely to 'Terminated'. 'Submitted on time' splits to 'Terminated' and 'Renewed'. 'Ex-Parte' leads entirely to 'Renewed'." /> 
 
-  <em>This example funnel depicts the a population of Medicaid renewals and their various states. Full-size image <a href="../images/funnel-full-size.png">here</a>.</em>
+  <p><em>This example funnel depicts the a population of Medicaid renewals and their various states. Full-size image <a href="../images/funnel-full-size.png">here</a>.</em></p>
 </div>
 
 * **Pull the numbers.** Pull end-to-end funnel data, including where drop-offs occur at each step in the renewal process. Pull ex parte failure reasons, and organize by the number of people impacted. Pull web traffic numbers to understand how people are accessing online renewal materials.
