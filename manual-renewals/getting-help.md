@@ -23,7 +23,7 @@ When a member or Navigator is assigned an agent or eligibility worker who is una
 Put your renewer hat on and try to find out where to get help on a particular Medicaid renewal topic in your state. Document the experience as you go, capturing screenshots and notes. Mark areas of confusion or frustration.
 
 #### Review escalation paths
-Review escalation paths to ensure callers can efficiently get routed to someone who can resolve their issue when an entry-level agent can’t help.
+Review escalation paths to ensure members can efficiently get routed to someone who can resolve their issue when an entry-level eligibility worker or agent can’t help.
 
 ## Call center
 ### Challenges
@@ -37,11 +37,20 @@ In some states, the option to renew over the phone is not an available option in
 Many states use Language Line for translations when bilingual agents are not available. However, this results in additional wait time for members with limited English proficiency. Through the use of an interpreter as in Language Line, context is missed and key details get lost in translation.
 
 ### Plays 
+#### Call in
+Call in to the customer support line as a renewer and document your experience. Note areas of confusion or frustration, record your wait time, take notes on the IVR, and highlight areas for opportunity.
+
 #### Ask for data
-Ask for average wait times, average call times, and issue resolution rates across the state. Compare state baseline data to data across regions (e.g. urban vs rural counties) and populations (e.g. English vs non-English speakers) to identify challenges across the customer support experience.
+Ask for average wait times, average call times, containment rates, and issue resolution rates across the state. Compare state baseline data to data across regions (e.g. urban vs rural counties) and populations (e.g. English vs non-English speakers) to identify challenges across the customer support experience.
 
 #### Review IVR menus
 Review Interactive Voice Response (IVR) menus to ensure callers can easily and efficiently get routed to an agent who can answer their questions and resolve their issues. Ensure top caller questions are reflected in IVR menus (e.g. “Renewing” should be included).
+
+#### Review hand-off procedures
+When callers are transferred to another department, ensure they keep their spot in line and don't go to the back of line in a second queue. 
+
+#### Review escalation paths
+Review escalation paths to ensure callers can efficiently get routed to someone who can resolve their issue when an entry-level eligibility worker or agent can’t help.
 
 #### Ensure language lines are usable for non-English speakers
 In some states, language options that are available in the are not actually hooked up to a representative who speaks that language. 
