@@ -2,6 +2,9 @@
 When members have a question or challenge with their Medicaid renewal, states provide multiple options to get support. These include in-person support at local eligibility offices, over-the-phone support, and support from Navigators. However, not all members experience the same level of support.
 
 ## Challenges
+**Knowing what support is available**
+<br>It's not always clear to members what support options are available. When searching online for help renewing Medicaid, official state websites don't always rank towards the top. Furthermore, not all members are familiar with Navigators or aware that individualized support is avaialbe to help them through the renewal process.
+
 **Increased demand**
 <br>With the public health emergency ending, members need to take action to renew their Medicaid for the first time in several years. Some members are renewing for the first time. Navigators report that the return to annual renewals has resulted in fear, confusion, and questions among members. More members are reaching out for support than any time in the past few years.
 

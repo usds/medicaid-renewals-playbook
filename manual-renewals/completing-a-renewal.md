@@ -33,26 +33,56 @@ Members who are not ex parte renewed for Medicaid must complete and turn in an a
 
 ### Phone-based renewals 
 **Long call center wait times**
-<br>Call center wait times across the nation are high for help with Medicaid renewals. However, some counties reported experiencing more burden than others. Those living in a high-density urban areas are typically met with longer wait times than those living in rural areas.
+
+Call center wait times across the nation are high for help with Medicaid renewals. However, some counties reported experiencing more burden than others. Those living in a high-density urban areas are typically met with longer wait times than those living in rural areas.
 
 **Confusing IVR options** 
-<br>In some states, the option to renew over the phone is not an available option in the state’s interactive voice response (IVR) menu. In some states, language options that are available in the are not actually hooked up to a representative who speaks that language. 
+
+In some states, the option to renew over the phone is not an available option in the state’s interactive voice response (IVR) menu. In some states, language options that are available in the are not actually hooked up to a representative who speaks that language. 
 
 **Language access**
-<br>Many states use Language Line for translations when bilingual agents are not available. However, this results in additional wait time for members with limited English profiency. Through the use of an interpreter as in Language Line, context is missed and key details get lost in translation.
+
+Many states use Language Line for translations when bilingual agents are not available. However, this results in additional wait time for members with limited English profiency. Through the use of an interpreter as in Language Line, context is missed and key details get lost in translation.
 
 ## Plays
-:chart_with_upwards_trend: **Ask for data** 
-<br>Many states track data on renewal form return rates. This is the percentage of people who were sent a renewal form that successfully returned it. If this number is low, chances are that people are struggling to turn in the forms. For online forms, ask for drop off rates across the form, password reset attempts, identity verification success rates, and duplicate accounts created. For over-the-phone renewals, ask for average wait times, average call times, and issue resolution rates.
+📈 **Ask for data** 
 
-:family: **Talk to Navigators**
-<br>Navigators provide 1:1 support to members of their community who need help completing their renewal form. They know *where* and *how often* people are getting stuck completing their renewal form, and the top questions people have about the form.
+Many states track data on renewal form *return rates.* This is the percentage of people who were sent a renewal form that successfully returned it. If this number is low, chances are that people are struggling to turn in the forms. For online forms, ask for drop off rates across the form, password reset attempts, identity verification success rates, and duplicate accounts created. For over-the-phone renewals, ask for average wait times, average call times, and issue resolution rates.
 
-:clipboard: **Usability test the form**
-<br>Usability test the form with members of the public. Focus on people who face the greatest barriers to understanding the renewal form and completing it, including those who are new to the U.S., people with limited English proficiency, people with disabilities, and people with limited technology experience. 
+🗣 **Talk to Navigators**
 
-:pencil2: **Co-design improvements** 
-<br>Co-design improvements to the form with end-users, including members of the public, Navigators, and eligibility workers. Establish a Member Advisory Council to provide ongoing feedback on proposed changes to the form. Include members in the iterative design process; ask for feedback and ideas early and often.
+Navigators provide 1:1 support to members of their community who need help completing their renewal form. They know *where* and *how often* people are getting stuck completing their renewal form, and the top questions people have about the form.
 
-:bulb: **Explore options to drastically reduce the burden of renewing**
-<br>For example, including a cover page on the paper form which highlights specific questions on the form in need of attention or providing an options for renewers to return a single signature page if the information on their pre-filled form is still accurate. For renewing online, explore options to upload or renew online without requiring members to create an account or login (e.g. through providing other unique identifiers).
+📋 **Usability test the form**
+
+Usability test the form with members of the public. Focus on people who face the greatest barriers to understanding the renewal form and completing it, including those who are new to the U.S., people with limited English proficiency, people with disabilities, and people with limited technology experience. 
+
+✏️  **Co-design improvements** 
+
+Co-design improvements to the form with end-users, including members of the public, Navigators, and eligibility workers. Establish a Member Advisory Council to provide ongoing feedback on proposed changes to the form. Include members in the iterative design process; ask for feedback and ideas early and often.
+
+💡 **Explore options to drastically reduce the burden of renewing**
+
+For example, including a cover page on the paper form which highlights specific questions on the form in need of attention or providing an options for renewers to return a single signature page if the information on their pre-filled form is still accurate. For renewing online, explore options to upload or renew online without requiring members to create an account or login (e.g. through providing other unique identifiers).
+
+Example: [Colorado's Renewal Form Signature Page](https://hcpf.colorado.gov/sites/hcpf/files/Renewal%20Non-MAGI%20Packet%20in%20English.pdf)
+
+<div align="center">
+  <img
+    width="750px"
+    src="../images/Colorado-Single-Page-Signature-Example.png"
+    alt="Colorado's Signature Page, on Page 4 of their renewal packet" />
+
+  <p><em>Full size image available <a href="../images/Colorado-Single-Page-Signature-Example-full-size.png">here</a>.</em></p>
+</div>
+ 
+Example: Cover Page Exploration
+
+<div align="center">
+  <img
+    width="750px"
+    src="../images/Single-Page-Attestation-Example.png"
+    alt="Cover Page Exploration" />
+
+  <p><em>Full size image available <a href="../images/Single-Page-Attestation-Example-full-size.png">here</a>.</em></p>
+</div>
