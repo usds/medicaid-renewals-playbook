@@ -3,10 +3,13 @@
 Members who are not ex parte renewed for Medicaid must complete and turn in an annual renewal form. States are required to offer multiple modalities for completing and turning in the form, including a paper form mailed to the member’s house, an online renewal form, or an over-the-phone option. Regardless of the path, completing a renewal form can be burdensome and time-intensive for members. 
 
 
-## General
+## Paper form
 ### Challenges
+#### Not receiving the renewal packet
+Some members never receive their renewal packet in the mail. Most often, this is a result of states not having an up-to-date address. Alternatively, some members do receive the packet in the mail, but perceive the envelope as spam or unimportant and throw it away without opening it. See [Outreach and messaging](../manual-renewals//outreach-and-messaging.md) for more on this topic.
+
 #### Size of the renewal packet
-The size of the renewal form is daunting, averaging 15-20 pages. After opening their renewal packet in the mail or accessing it online, some decide not to complete it.
+The size of the renewal form is daunting, averaging 15-20 pages. After opening their renewal packet in the mail some decide not to complete it.
 
 #### Lack of plain language
 It’s challenging to understand what’s required across each section of the renewal form due to use of complex terms, lack of plain language, or unclear visual hierarchy.
@@ -55,7 +58,7 @@ Example: Cover Page Exploration
   <p><em>Full size image available <a href="../images/Single-Page-Attestation-Example-full-size.png">here</a>.</em></p>
 </div>
 
-## Online forms
+## Online form
 ### Challenges
 #### Multiple platforms
 Some states advertise multiple online portals to renew online, creating confusion and frustration for some members. It’s unclear which is the “official” route to renew online or which is the easiest path for them.
