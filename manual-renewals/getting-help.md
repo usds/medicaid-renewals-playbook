@@ -18,7 +18,7 @@ Members and Navigators report having to call in or go in person to an eligibilit
 #### Unclear escalation paths
 When a member or Navigator is assigned an agent or eligibility worker who is unable to resolve their issue, it sometimes results in a dead end. Members and Navigators report that there is not always the option to speak to a manager or supervisor to resolve an issue. Navigators in some states fall back to a formal appeals process when they cannot resolve an issue otherwise.
 
-## Plays
+### Plays
 #### Be a renewer
 Put your renewer hat on and try to find out where to get help on a particular Medicaid renewal topic in your state. Document the experience as you go, capturing screenshots and notes. Mark areas of confusion or frustration.
 
