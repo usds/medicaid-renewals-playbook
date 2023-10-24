@@ -1,5 +1,6 @@
 # Plays and Resources
 
+#### On this page:
 1. [Establish Trust and Urgency](#play-1)
 2. [Identify Problems](#play-2)
 3. [Generate Solutions](#play-3)
@@ -30,17 +31,17 @@ In addition, all members of the team -- including vendors -- must understand the
 * **Go where the work is.** Travel to where your state partners and their Medicaid members are. This establishes urgency for the work, builds rapport, and creates momentum around generating solutions and decision-making.
 
 ### Resources
-Guides
+#### Guides
   * [Benefits Data Trust: Medicaid Churn Overview & FAQ](https://bdtrust.org/Prioritization_Tool.docx): The background, causes, impacts, and mitigations of Medicaid churn.
   * [Benefits Data Trust: Goal Setting](https://bdtrust.org/Goal_Setting.docx): Establish SMART (Specific, Measurable, Achievable, Relevant, and Time-bound) goals for addressing Medicaid churn.
   * [Benefits Data Trust: Stakeholder Engagement](https://bdtrust.org/Stakeholder_Engagement.docx): Identify who needs to be part of the process based on knowledge/expertise & capacity. Identify opportunities for engagement & establish and implement a strategy for engagement.
   * [Medicaid 101](../resources/medicaid-101.pdf): A _brief and informal_ overview of the Medicaid program. This presentation **should not** be taken as legal authority or advice, but used as a quick introduction to the program.
 
-Templates
+#### Templates
  * Project Charter ([docx](../resources/example-project-charter.docx), [pdf](../resources/example-project-charter.pdf)): An example charter used to establish the goals, dates, and activities of the engagement between the civic tech organization and the state health and human services agency.
  * [On-Site Schedule](../logistics/schedule.md): An example schedule for the week of the on-site engagement. Work typically begins virtually 3-4 weeks prior and 3-4 weeks following, but the on-site week is typically the most impactful and intense period of work.
 
-Workshops
+#### Workshops
   * [Kickoff Meeting](../logistics/workshops-and-meetings/kickoff.md): Sample agenda and materials for the project kickoff, where state staff and the full team align on goals, norms, and the work moving forward.
   * [Hypothesis Generation Workshop](../logistics/workshops-and-meetings/hypothesis-generation-workshop.md): Sample agenda and materials for a workshop focused on generating hypotheses on where the team could have the biggest impact.
 
@@ -69,15 +70,15 @@ When determining the problems, it's important to keep the focus on the “end-to
 
 
 ### Resources
-Guides
-  * Navigator Research Guide ([docx](../resources/navigator-research-guide.docx), [pdf](../resources/navigator-research-guide.pdf)): Working with [Navigators](https://www.healthcare.gov/glossary/navigator/) is crucial for the success of renewals work. This guide provides a set of resources for explaining, justifying, preparing, and performing work with Navigators. It includes background information on Navigator organizations, example research plans, and email templates for correspondence.
+#### Guides
+  * **Navigator Research Guide** ([docx](../resources/navigator-research-guide.docx), [pdf](../resources/navigator-research-guide.pdf)): Working with [Navigators](https://www.healthcare.gov/glossary/navigator/) is crucial for the success of renewals work. This guide provides a set of resources for explaining, justifying, preparing, and performing work with Navigators. It includes background information on Navigator organizations, example research plans, and email templates for correspondence.
 
-Templates
-  * Data Request Worksheet ([xlsx](../resources/data-request-worksheet.xlsx), [pdf](../resources/data-request-worksheet.pdf)): A worksheet that can be used by the state to begin measuring their end-to-end renewal funnel. Some states will not be able to fill out all fields in the template; that's okay! This template can and should be adapted for the particular state.
+#### Templates
+  * **Data Request Worksheet** ([xlsx](../resources/data-request-worksheet.xlsx), [pdf](../resources/data-request-worksheet.pdf)): A worksheet that can be used by the state to begin measuring their end-to-end renewal funnel. Some states will not be able to fill out all fields in the template; that's okay! This template can and should be adapted for the particular state.
   * [State Renewals Funnel](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1697032143290/0ae29a54efb9ed41a03dbba35e11e7eba60cfa1e?sender=u46dc9256beb1576a38081536): A method for visualizing the end-to-end funnel of Medicaid renewals, and determining which drop-off points are the most critical to focus on.
   * [Renewal Journey Map](https://app.mural.co/t/usdigitalservice0135/m/usdigitalservice0135/1697052445632/f3f79359e57b77d23f41d325a131b736c5740263?sender=u46dc9256beb1576a38081536): A method for mapping a member's renewal journey from start to finish. This can be used throughout the investigation and research process for determining challenges and opportunities for improvement.
 
-Workshops
+#### Workshops
   * [Navigator Workshop](../logistics/workshops-and-meetings/navigator-workshop.md): Typically, at the beginning of the week, we hold a convening of Navigators focused on generating potential solutions.
   * [Ex Parte Workshop #1](../logistics/workshops-and-meetings/ex-parte-workshop.md): The first ex parte workshop, typically held in the week of the on-site, is focused on identifying opportunities for improvement in the ex parte renewal flow.
   * [Manual Renewal Workshop #1](../logistics/workshops-and-meetings/manual-renewal-workshop.md): The first manual renewal workshop, typically held in the week of the on-site, is focused on bringing the experiences and solutions from research with Navigators to the state so that solutioning can begin.
@@ -107,7 +108,7 @@ Whenever possible, scope should be reduced towards the minimum viable solution. 
 * **Find the minimum viable solution.** Working with the state staff, eliminate parts of the implementation process that are unnecessary. Focus specifically on stages that may are prone to inflation: testing, for example, or administrative processes. Can these stages be reduced? Don't be satisfied until any solution is the smallest viable solution possible. Ask about the emergency release process. Strive to land changes before, rather than just after, any monthly batch run.
 
 ### Resources
-Workshops
+#### Workshops
   * [Ex Parte Workshop #2](../logistics/workshops-and-meetings/ex-parte-workshop.md): The second ex parte workshop is focused around implementation details and aligning on potential solutions.
   * [Manual Renewal Workshop #2](../logistics/workshops-and-meetings/manual-renewal-workshop.md): The second manual renewal workshop is focused on determining implementation plans and assigning owners to action items.
 
@@ -137,12 +138,12 @@ Once a set of solutions is prioritized, the state and vendor work together to sc
 * **Ask for metrics.** Measuring the impact of the engagement is crucial to ensuring the state and civic technology team's time was well spent. If possible, utilize rigorous methods like A/B testing, pilots, and randomized trials to gather quality data of the effectivity of solutions.
 
 ### Resources
-Templates
+#### Templates
  * Example Recommendations Document([docx](../resources/example-recommendations-document.docx), [pdf](../resources/example-recommendations-document.pdf)): At the end of the on-site week, all recommendations agreed upon by _both the state and the civic technology team_ are documented in this recommendations report, which is then delivered to the state Medicaid leadership.
 
-Guides
+#### Guides
 * [Benefits Data Trust: Prioritization Tool](https://bdtrust.org/Prioritization_Tool.docx): Determine what policy and process solutions are feasible by analyzing the risk, value, cost and effort of implementation and establish action steps for implementing proposed policy & process changes.
 
-Workshops
+#### Workshops
   * [Closing Meeting](../logistics/workshops-and-meetings/closing.md): This meeting is typically held at the end of the on-site week. It is an opportunity to present recommendations to the state senior leadership, and re-affirm the agreed upon actions.
   * [Prioritization Session](../logistics/workshops-and-meetings/prioritization-session.md): This session can help the state determine which recommendations require immediate action versus long-term changes.
