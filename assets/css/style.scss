@@ -2,5 +2,43 @@
 ---
 
 @import "{{ site.theme }}";
-
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Source+Sans+3:wght@400;700&display=swap');
 // DO NOT DELETE THE ABOVE LINES
+
+
+.markdown-body h1, .markdown-body h2, .markdown-body h3{
+  font-family: 'Merriweather', serif;
+  color: #103c68;
+}
+
+.markdown-body h4, .markdown-body h5, .markdown-body h6{
+  font-family: 'Source Sans 3', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+}
+
+.markdown-body p, .markdown-body blockquote, .markdown-body ul, .markdown-body ol, .markdown-body dl, .markdown-body table, .markdown-body pre{
+  color: #5d5d5d;
+  font-family: 'Source Sans 3', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+}
+
+.markdown-body>h1:first-child {
+  font-size: 1.5em;
+  border: none;
+}
+
+.markdown-body h1 {
+  font-size: 3em;
+}
+
+.markdown-body h2 {
+  font-size: 2em;
+}
+
+.markdown-body h4 {
+  margin-bottom: 5px;
+  color: #0a64bd;
+}
+
+.markdown-body h4 {
+  margin-bottom: 5px;
+  color: #0a64bd;
+}
