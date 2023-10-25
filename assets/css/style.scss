@@ -57,13 +57,14 @@
 .row{
   display: inline-block;
   width: 100%;
+  margin: 0 -20px;
 }
 
 .row .column{
     max-width: 45%;
     display: inline-block;
     float: left;
-    margin: 20px;
+    padding: 20px;
 }
 
 
