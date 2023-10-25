@@ -77,13 +77,32 @@ Many online renewal document upload portals have small file size limits which re
 
 ### Plays
 #### Ask for data
-Ask for drop off rates across the form, password reset attempts, identity verification success rates, and duplicate accounts created.
+Ask for drop off rates across the form, password reset attempts, duplicate accounts, and identity verification success rates.
 
-#### Usability test the form
+#### Usability test the online renewal experience
 Directly observe users try to complete their renewal online, from creating an account and logging in through to submitting their form. Focus on people who face the greatest barriers to understanding the renewal form and completing it, including those who are new to the U.S., people with limited English proficiency, people with disabilities, and people with limited technology experience. Note the time it takes to complete each task, where people struggle or have questions, and whether or not each user was able to complete their online renewal successfully.
 
 #### Co-design improvements
 Co-design improvements to the form with end-users, including members of the public, Navigators, and eligibility workers. Establish a Member Advisory Council to provide ongoing feedback on proposed changes to the form. Include members in the iterative design process; ask for feedback and ideas early and often.
+
+### Possible solutions
+#### Clarify communications around where to renew online
+Develop a clear path for online renewals by clarifying the quickest and easiest way to renew online among multiple existing platforms. Ensure communications are consistent across mediums (e.g. renewal packet, notices, official government websites, outreach campaigns).
+
+#### Simplify the account creation process
+Many members do not have an email address at the time of renewal, and Navigators report spending hours with members walking through the process and familiarizing members with email before creating their online renewal account account. Additionally, complex username and password requirements make it hard for members to successfully complete account creation. States should consider removing the requirement of an email address for members to complete their renewal online and review account creation policies to ensure ease of use for members.
+
+#### Simplify account retrieval
+Many members have duplicate accounts with their state, as it's often easier to create a new account than retrieve their old one. States should review the user experience of retrieving a lost username, password, or locked account to identify opportunities to simplify the process and increase success rates. Additionally, states should consider passwordless authentication options (e.g. through a Magic Link) which don't require users to remember a password to complete their renewal.
+
+#### Explore login-less ways to renew online
+Some states provide paths for members to upload documents without requiring them to create an account or log in, including proof of income or a completed renewal packet. Additionally, states could explore alternative paths and "guest login" options for members to complete their entire renewal online by providing personally identifiable information that links the member to their account (e.g. first and last name, DOB, SSN or ITIN, case number) as an alternative to login credentials.
+
+#### Enable Navigator access
+Navigators have the full trust of their clients, but often lack the permissions to view their client's renewal date, prepopulated renewal packet, case status, and confirm that documents have been successfully submitted. States should explore Navigator online access policies to ensure that they can sufficiently support their client's through the renewal process.
+
+#### Expand file size limits
+Members and Navigators are sometimes faced with the burden of having to resize files themselves or upload multiple different documents due to restrictive file size limits. States should expand file size limits to support the standard documents they accept (e.g. multi-page PDFs for the renewal packet) and high-resolution defaults across commonly used devices to share photos of documents (e.g. iPhone and Android smartphones).
 
 ## Phone-based renewals 
 ### Challenges
