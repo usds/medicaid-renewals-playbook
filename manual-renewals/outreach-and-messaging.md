@@ -64,6 +64,7 @@ Use quantitative and qualitative research to understand if this is a challenge i
 ### Potential solutions
 
 #### Design envelopes to make them stand out amongst other mail and make it clear that action is needed
+Printing text on the outside of the envelope in key languages is a low-lift intervention that helps make it clear to members what the contents are and why it's important to open it. Using a unique color or design can also be effective when paired with strategic advertising so members recognize the envelope before it arrives.
 <div class="row">
   <div class="column">
     <p>Example: New York renewal notice envelope redesign</p>
@@ -88,5 +89,5 @@ Use quantitative and qualitative research to understand if this is a challenge i
 Ads should be placed in places where Medicaid participants are most likely to see them, such as TV, Radio, bus ads, doctor's offices, and pharmacies. Navigator's should be leveraged to spread the word in their communities.
 #### Working with the National Change of Address (NCOA) database or MCOs to update recipient's addresses
 #### Utilizing web-based messaging services like WhatsApp for outreach
-Participants who run out of minutes may still connect to wifi
+Memers who run out of minutes may still connect to wifi, making web-based messaging a critical link to reach that population
 
