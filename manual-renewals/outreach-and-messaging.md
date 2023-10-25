@@ -2,16 +2,6 @@
 
 Members of the public face many challenges in learning how and when to renew their Medicaid, from general awareness that renewals have resumed to accessing and understanding more targeted messaging about their own renewal date.
 In many instances, the first time a member learns that they have missed their renewal date is when they try to use their coverage to fill a prescription or visit the doctor and get denied.
-#### On this page:
-1. [Confusing messaging](#challenge-1)
-2. [Getting the word to the right place](#challenge-2)
-3. [SEO](#challenge-3)
-4. [Out of date contact information](#challenge-4)
-5. [Phone & texting access](#challenge-5)
-6. [Distinguishing official notices from spam](#challenge-6)
-7. [Plain language](#challenge-7)
-8. [Language access](#challenge-8)
-9. [Timing](#challenge-9)
 
 ## General Awareness
 
