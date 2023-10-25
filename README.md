@@ -37,6 +37,6 @@ Please contribute to this repository with your questions or additions. To do so,
 | [Policy rules](./ex-parte-renewals/policy-rules.md)
 | [Caretaker relative challenges](./ex-parte-renewals/caretaker-relative.md)
 | [Waiver implementation challenges](./ex-parte-renewals/waiver-implementations.md)
-| [Consent challenges](./ex-parte-renewals/consent.md)
+| [Consent requirements](./ex-parte-renewals/consent.md)
 | [Worst case scenario challenges](./ex-parte-renewals/worst-case-scenario.md)
 
