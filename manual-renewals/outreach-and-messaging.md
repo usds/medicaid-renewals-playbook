@@ -63,8 +63,30 @@ Use quantitative and qualitative research to understand if this is a challenge i
 
 ### Potential solutions
 
-* Redesigning envelopes to make them stand out amongst other mail and make it clear that action is needed
-* Ad campaigns encouraging people to update their contact information. Ads should be placed in places where Medicaid participants are most likely to see them, such as TV, Radio, bus ads, doctor's offices, and pharmacies. Navigator's should be leveraged to spread the word in their communities.
-* Working with the National Change of Address (NCOA) database or MCOs to update recipient's addresses
-* Utilizing web-based messaging services like WhatsApp for outreach—participants who run out of minutes may still connect to wifi
+#### Design envelopes to make them stand out amongst other mail and make it clear that action is needed
+<div class="row">
+  <div class="column">
+    <p>Example: New York renewal notice envelope redesign</p>
+    <img
+      width="750px"
+      src="../images/NY-Envelope-Mockup-beforeafter-small.jpg"
+      alt="Colorado's Signature Page, on Page 4 of their renewal packet" />
+  <p>Full size image available <a href="../images/NY-Envelope-Mockup-beforeafter-fullsize.jpg">here</a></p>
+    
+  </div>
+  <div class="column">
+    <p>Example: Hawaii's pink evelope campaign</p>
+    <img
+      width="750px"
+      src="../images/hawaii_quest_pink_envelope.jpeg"
+      alt="Cover Page Exploration" />
+<p>Full size image available <a href="../images/hawaii_quest_pink_envelope.jpeg">here</a></p>
+  </div>
+</div>
+  
+#### Ad campaigns encouraging people to update their contact information. 
+Ads should be placed in places where Medicaid participants are most likely to see them, such as TV, Radio, bus ads, doctor's offices, and pharmacies. Navigator's should be leveraged to spread the word in their communities.
+#### Working with the National Change of Address (NCOA) database or MCOs to update recipient's addresses
+#### Utilizing web-based messaging services like WhatsApp for outreach
+Participants who run out of minutes may still connect to wifi
 
