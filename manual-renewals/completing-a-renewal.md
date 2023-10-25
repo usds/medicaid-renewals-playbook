@@ -116,5 +116,14 @@ In some states, the option to renew over the phone is not an available option in
 Many states use Language Line for translations when bilingual agents are not available. However, this results in additional wait time for members with limited English profiency. Through the use of an interpreter as in Language Line, context is missed and key details get lost in translation.
 
 ### Plays
+#### Listen in
+Listen in while a member attempts to renew over the phone and document the experience. Note the time it takes to complete each task, where people struggle or have questions, and whether or not the member was able to complete their renewal successfully.
+
 #### Ask for data
-Ask for average wait times, average call times, and issue resolution rates.
+Ask for average wait times, average call times, containment rates, and issue resolution rates across the state. Compare state baseline data to data across regions (e.g. urban vs rural counties) and populations (e.g. English vs non-English speakers) to identify challenges across the phone-based renewal experience.
+
+#### Review IVR menus
+Review Interactive Voice Response (IVR) menus to ensure callers can easily and efficiently get routed to an agent who can help them complete their over the phone renewal.
+
+#### Ensure language lines are usable for non-English speakers
+In some states, language options that are available in the are not actually hooked up to a representative who speaks that language. 
