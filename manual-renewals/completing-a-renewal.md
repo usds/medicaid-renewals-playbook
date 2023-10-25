@@ -36,26 +36,25 @@ Co-design improvements to the form with end-users, including members of the publ
 #### Explore options to drastically reduce the burden of renewing
 For example, including a cover page on the paper form which highlights specific questions on the form in need of attention or providing an options for renewers to return a single signature page if the information on their pre-filled form is still accurate. For renewing online, explore options to upload or renew online without requiring members to create an account or login (e.g. through providing other unique identifiers).
 
-Example: [Colorado's Renewal Form Signature Page](https://hcpf.colorado.gov/sites/hcpf/files/Renewal%20Non-MAGI%20Packet%20in%20English.pdf)
 
-<div align="center">
-  <img
-    width="750px"
-    src="../images/Colorado-Single-Page-Signature-Example.png"
-    alt="Colorado's Signature Page, on Page 4 of their renewal packet" />
-
-  <p><em>Full size image available <a href="../images/Colorado-Single-Page-Signature-Example-full-size.png">here</a>.</em></p>
-</div>
- 
-Example: Cover Page Exploration
-
-<div align="center">
-  <img
-    width="750px"
-    src="../images/Single-Page-Attestation-Example.png"
-    alt="Cover Page Exploration" />
-
-  <p><em>Full size image available <a href="../images/Single-Page-Attestation-Example-full-size.png">here</a>.</em></p>
+<div class="row">
+  <div class="column">
+    <p>Example: <a href="https://hcpf.colorado.gov/sites/hcpf/files/Renewal%20Non-MAGI%20Packet%20in%20English.pdf">Colorado's Renewal Form Signature Page</a></p>
+    <img
+      width="750px"
+      src="../images/Colorado-Single-Page-Signature-Example.png"
+      alt="Colorado's Signature Page, on Page 4 of their renewal packet" />
+  <p>Full size image available <a href="../images/Colorado-Single-Page-Signature-Example-full-size.png">here</a></p>
+    
+  </div>
+  <div class="column">
+    <p>Example: Cover Page Exploration</p>
+    <img
+      width="750px"
+      src="../images/Single-Page-Attestation-Example.png"
+      alt="Cover Page Exploration" />
+<p>Full size image available <a href="../images/Single-Page-Attestation-Example-full-size.png">here</a></p>
+  </div>
 </div>
 
 ## Online form
