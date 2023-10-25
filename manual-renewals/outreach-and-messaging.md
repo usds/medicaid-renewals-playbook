@@ -57,11 +57,9 @@ Many states support multiple languages, and translations of notices can also be 
 The timing of notices can also be a challenge. Given inconsistencies in mail delivery timelines, multiple notices can sometimes arrive out of order, creating confusion. If states are sending texts/emails in addition to mail, the mail may arrive after the member has already taken action.
 
 ### Plays:
-Use quantitative and qualitative research to understand if this is a challenge in the state you're working with and measure the baseline.
+#### Use quantitative and qualitative research to understand if this is a challenge in the state you're working with and measure the baseline.
 * Quantitative data: mail bounce/return rates, undeliverable rates for text messages, open rates for texts or emails
 * Qualitative data: Navigators report that their clients are often throwing away their mail, and the first time people realize they have lost their coverage is when they try to use it (e.g. to fill a prescription) and get denied.
-
-### Potential solutions
 
 #### Design envelopes to make them stand out amongst other mail and make it clear that action is needed
 Printing text on the outside of the envelope in key languages is a low-lift intervention that helps make it clear to members what the contents are and why it's important to open it. Using a unique color or design can also be effective when paired with strategic advertising so members recognize the envelope before it arrives.
