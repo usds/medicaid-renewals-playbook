@@ -63,6 +63,7 @@ The timing of notices can also be a challenge. Given inconsistencies in mail del
 
 #### Design envelopes to make them stand out amongst other mail and make it clear that action is needed
 Printing text on the outside of the envelope in key languages is a low-lift intervention that helps make it clear to members what the contents are and why it's important to open it. Using a unique color or design can also be effective when paired with strategic advertising so members recognize the envelope before it arrives.
+
 <div class="row">
   <div class="column">
     <p>Example: New York renewal notice envelope redesign</p>
@@ -70,8 +71,7 @@ Printing text on the outside of the envelope in key languages is a low-lift inte
       width="750px"
       src="../images/NY-Envelope-Mockup-beforeafter-small.jpg"
       alt="Colorado's Signature Page, on Page 4 of their renewal packet" />
-  <p>Full size image available <a href="../images/NY-Envelope-Mockup-beforeafter-fullsize.jpg">here</a></p>
-    
+    <p>Full size image available <a href="../images/NY-Envelope-Mockup-beforeafter-fullsize.jpg">here</a></p>
   </div>
   <div class="column">
     <p>Example: Hawaii's pink evelope campaign</p>
@@ -79,7 +79,7 @@ Printing text on the outside of the envelope in key languages is a low-lift inte
       width="750px"
       src="../images/hawaii_quest_pink_envelope.jpeg"
       alt="Cover Page Exploration" />
-<p>Full size image available <a href="../images/hawaii_quest_pink_envelope.jpeg">here</a></p>
+    <p>Full size image available <a href="../images/hawaii_quest_pink_envelope-fullsize.jpeg">here</a></p>
   </div>
 </div>
   
