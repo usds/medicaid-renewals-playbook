@@ -8,7 +8,7 @@ layout: default
 {% assign url = "/" %}
 
 {% for piece in pieces %}
-  {% assign url = url | concat: piece %}
+  {% assign url = url | split: "/" | concat: piece | join: "/" %}
   - {{ url }}
 {% endfor %}
 
