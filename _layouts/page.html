@@ -12,7 +12,7 @@ layout: default
   {% assign ext = url | split: "." | last %}
 
   {% if ext != "html" %}
-    {% assign url | append: "/" | replace: "//", "/" %}
+    {% assign url = url | append: "/" | replace: "//", "/" %}
   {% endif %}
 
   {% assign name = "UNKNOWN" %} 
