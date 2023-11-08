@@ -8,7 +8,12 @@ layout: default
 {% assign url = "" %}
 
 {% for piece in pieces %}
-  {% assign url = url | append: "/" | append: piece %}
+  {% assign url = url | append: "/" | append: piece | replace: "//", "/"" %}
+  {% assign ext = url | split: "." | last %}
+
+  {% if ext != "html" %}
+    {% assign url | append: "/" | replace: "//", "/" %}
+  {% endif %}
 
   {% assign name = "UNKNOWN" %} 
   {% for site_page in site.pages %}
