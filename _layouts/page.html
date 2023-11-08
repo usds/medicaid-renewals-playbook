@@ -2,33 +2,32 @@
 layout: default
 ---
 
-<p>URL: {{ page.url }}</p>
-
 {% assign pieces = page.url | split: "/" %}
 {% assign url = "" %}
 
-{% for piece in pieces %}
-  {% assign url = url | append: "/" | append: piece | replace: "//", "/"" %}
-  {% assign ext = url | split: "." | last %}
-
-  {% if ext != "html" %}
-    {% assign url = url | append: "/" | replace: "//", "/" %}
-  {% endif %}
-
-  {% assign name = "UNKNOWN" %} 
-  {% for site_page in site.pages %}
-    {% if site_page.url == url %}
-      {% assign name = site_page.title %}
+<div class="breadcrumbs">
+  {% for piece in pieces %}
+    {% assign url = url | append: "/" | append: piece | replace: "//", "/"" %}
+    {% assign ext = url | split: "." | last %}
+  
+    {% if ext != "html" %}
+      {% assign url = url | append: "/" | replace: "//", "/" %}
     {% endif %}
+  
+    {% assign name = "UNKNOWN" %} 
+    {$ assign prefix = " - " %}
+
+    {% if url == "/" %}
+      {% assign_name = "Home" %}
+      {% assign prefix = "" %}
+    {% else %}
+      {% for site_page in site.pages %}
+        {% if site_page.url == url %}
+          {% assign name = site_page.title %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  
+    {{ prefix }}<a class="breadcrumb" href="{{ url }"}>{{ name }}</a>
   {% endfor %}
-
-  <p>{{ url }} - {{ name }}</p>
-
-{% endfor %}
-
-<p>URLs:</p>
-  {% for site_page in site.pages %}
-    <p>{{ site_page.url }}</p>
-  {% endfor %} 
-
-{{ content }}
+</div>
