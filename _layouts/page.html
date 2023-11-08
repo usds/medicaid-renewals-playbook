@@ -18,7 +18,7 @@ layout: default
     {$ assign prefix = " - " %}
 
     {% if url == "/" %}
-      {% assign_name = "Home" %}
+      {% assign name = "Home" %}
       {% assign prefix = "" %}
     {% else %}
       {% for site_page in site.pages %}
