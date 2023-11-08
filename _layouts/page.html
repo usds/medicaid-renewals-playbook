@@ -5,11 +5,19 @@ layout: default
 <p>URL: {{ page.url }}</p>
 
 {% assign pieces = page.url | split: "/" %}
-{% assign url = "/" %}
+{% assign url = "" %}
 
 {% for piece in pieces %}
   {% assign url = url | append: "/" | append: piece %}
-  - {{ url }}
+
+  {% assign name = "UNKNOWN" %} 
+  {% for page in site.pages %}
+    {% if page.url == url %}
+      {% assign name = page.title %}
+    {% endif %}
+  {% page %}
+
+  - {{ url }} - {{ name }}
 {% endfor %}
 
 {{ content }}
