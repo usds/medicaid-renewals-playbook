@@ -28,7 +28,9 @@ layout: default
       {% endfor %}
     {% endif %}
   
-    {{ prefix }}<a class="breadcrumb" href="/medicaid-renewals-playbook{{ url }}">{{ name }}</a>
+    {% if name != "UNKNOWN" %}
+      {{ prefix }}<a class="breadcrumb" href="/medicaid-renewals-playbook{{ url }}">{{ name }}</a>
+    {% endif %}
   {% endfor %}
 </div>
 
