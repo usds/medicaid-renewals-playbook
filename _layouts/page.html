@@ -4,4 +4,12 @@ layout: default
 
 <p>URL: {{ page.url }}</p>
 
+{% assign pieces = page.url | split: "/" %}
+{% assign url = "/" %}
+
+{% for piece in pieces %}
+  {% assign url = url | concat: piece %}
+  - {{ url }}
+{% endfor %}
+
 {{ content }}
