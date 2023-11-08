@@ -11,11 +11,11 @@ layout: default
   {% assign url = url | append: "/" | append: piece %}
 
   {% assign name = "UNKNOWN" %} 
-  {% for page in site.pages %}
-    {% if page.url == url %}
-      {% assign name = page.title %}
+  {% for site_page in site.pages %}
+    {% if site_page.url == url %}
+      {% assign name = site_page.title %}
     {% endif %}
-  {% page %}
+  {% endfor %}
 
   - {{ url }} - {{ name }}
 {% endfor %}
