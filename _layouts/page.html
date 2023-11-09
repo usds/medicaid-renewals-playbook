@@ -2,4 +2,36 @@
 layout: default
 ---
 
+{% assign pieces = page.url | split: "/" %}
+{% assign url = "" %}
+
+<div class="breadcrumbs">
+  {% for piece in pieces %}
+    {% assign url = url | append: "/" | append: piece | replace: "//", "/"" %}
+    {% assign ext = url | split: "." | last %}
+  
+    {% if ext != "html" %}
+      {% assign url = url | append: "/" | replace: "//", "/" %}
+    {% endif %}
+  
+    {% assign name = "UNKNOWN" %} 
+    {% assign prefix = " > " %}
+
+    {% if url == "/" %}
+      {% assign name = "Home" %}
+      {% assign prefix = "" %}
+    {% else %}
+      {% for site_page in site.pages %}
+        {% if site_page.url == url %}
+          {% assign name = site_page.title %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  
+    {% if name != "UNKNOWN" %}
+      {{ prefix }}<a class="breadcrumb" href="/medicaid-renewals-playbook{{ url }}">{{ name }}</a>
+    {% endif %}
+  {% endfor %}
+</div>
+
 {{ content }}
