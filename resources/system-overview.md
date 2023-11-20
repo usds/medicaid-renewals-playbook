@@ -68,7 +68,7 @@ These could be services or batch jobs run on a schedule. For example, the fronte
 ### Data Sources
 Most sources will be required for both application and renewal. Often data sources will specify a real time API for applications to facilitate low-latency responses to user interaction on a portal, and a batch interface to allow for renewal operations to avoid overloading the real-time API.
 
-The federal Data Hub provides proxy interface to a number of data sources:
+The Federal Data Services Hub (FDSH) provides proxy interface to a number of data sources:
 -	Social Security Administration for SSN validation, SSDI, and deaths
 -	Internal Revenue Service for income and household composition
 -	Department of Labor for unemployment insurance income
