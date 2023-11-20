@@ -7,7 +7,9 @@ At the widest perspective the Medicaid eligibility system includes a number of i
 
 These systems process and store both PII and PHI, which adds additional constraints to their design.
 
-![block diagram of a medicaid elgibility system including web portals, buisness logic, rules engines, and data sources](/images/system_diagram.svg)
+<div align="center">
+  <img width="500px" src="/images/system_diagram.svg" alt="block diagram of a medicaid elgibility system including web portals, buisness logic, rules engines, and data sources" />
+</div>
 
 ### User Portal
 Narrowly: a set of web pages where the beneficiary can: learn about the program, apply for benefits, check progress of their case, respond to requests for information, provide information about change of circumstances events, learn about successful renewals, or complete a manual renewal.
