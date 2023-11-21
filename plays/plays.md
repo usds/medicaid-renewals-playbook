@@ -152,6 +152,7 @@ Once a set of solutions is prioritized, the state and vendor work together to sc
 
 #### Guides
 * [Benefits Data Trust: Prioritization Tool](https://bdtrust.org/Prioritization_Tool.docx): Determine what policy and process solutions are feasible by analyzing the risk, value, cost and effort of implementation and establish action steps for implementing proposed policy & process changes.
+* [Technical System Overview](../resources/system-overview.md) provides a general overview of the system components you should expect to find supporting a Medicaid program, as well as some common shortfalls and limitations.
 
 #### Workshops
   * [Closing Meeting](../logistics/workshops-and-meetings/closing.md): This meeting is typically held at the end of the on-site week. It is an opportunity to present recommendations to the state senior leadership, and re-affirm the agreed upon actions.
